@@ -239,6 +239,12 @@ form.pf-add input:focus{border-color:var(--ink)}
 .learn .body ul{margin:0 0 10px;padding-left:20px}
 .learn .lvl{font-family:var(--f-data);font-weight:400;font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);display:block;margin-bottom:4px}
 .learn details[open] .lvl{color:var(--saffron)}
+.formula{font-family:var(--f-data);font-size:14px;line-height:1.7;background:var(--paper);border-left:4px solid var(--saffron);padding:10px 14px;margin:0 0 12px;overflow-x:auto}
+.dcf{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin:0 0 12px;padding:14px;border:2px solid var(--ink)}
+.dcf label{font-family:var(--f-display);font-weight:600;font-size:12px;display:grid;gap:4px}
+.dcf input{font-family:var(--f-data);font-size:15px;padding:7px 8px;border:2px solid var(--line);border-radius:0;background:var(--paper);color:var(--ink);width:100%}
+.dcf-out{grid-column:1/-1;font-family:var(--f-data);font-size:14px;border-top:2px solid var(--ink);padding-top:10px}
+.dcf-out b{font-family:var(--f-display);font-weight:800;font-size:30px;letter-spacing:-.02em;display:block}
 
 footer{background:var(--ink);color:var(--paper)}
 footer .wrap{padding-block:32px;font-size:14px;display:grid;gap:8px}
@@ -443,15 +449,80 @@ footer .logo{font-size:40px}
     <div><h2>Beginner's corner</h2><p>The ideas you need to read the news on this page and invest with a plan. Tap a card to open it.</p></div>
   </div>
   <div class="learn">
-    <details><summary><span><span class="lvl">Basics</span>What are Sensex and Nifty?</span></summary><div class="body">
-      <p>They are scoreboards for the Indian stock market. <b>Sensex</b> tracks 30 large companies on the BSE. <b>Nifty 50</b> tracks 50 large companies on the NSE.</p>
-      <p>When news says "Nifty rose 2%", it means those 50 companies' combined value went up 2% that day. Your own stocks can move differently.</p>
+    <details><summary><span><span class="lvl">Business quality</span>Economic moat</span></summary><div class="body">
+      <p>A moat is a lasting advantage that stops competitors from eating a company's profits. Warren Buffett popularised the term.</p>
+      <ul><li><b>Brand:</b> customers pay more for the name (Pidilite's Fevicol, Titan).</li>
+      <li><b>Switching costs:</b> leaving is painful (core banking software, a bank's salary accounts).</li>
+      <li><b>Network effects:</b> each new user makes it better for others (Info Edge's Naukri, exchanges like BSE).</li>
+      <li><b>Cost advantage:</b> cheaper at scale (HDFC Bank's low-cost deposits, DMart's lean stores).</li>
+      <li><b>Distribution &amp; licences:</b> reach or permissions rivals can't copy (Asian Paints' dealer network, IRCTC).</li></ul>
+      <p><b>The numbers test:</b> a real moat shows up as ROCE well above the cost of capital, 15%+ for ten years or more, with stable margins through bad years.</p>
     </div></details>
-    <details><summary><span><span class="lvl">Basics</span>How do I start investing?</span></summary><div class="body">
-      <ul><li>Keep 3–6 months of expenses aside as an emergency fund first.</li>
-      <li>Open a demat and trading account with a SEBI-registered broker and complete KYC with PAN and Aadhaar.</li>
-      <li>Start with a monthly SIP in a low-cost Nifty 50 or Nifty 500 index fund (direct plan).</li>
-      <li>Pick single stocks only with money you can afford to see fall a lot.</li></ul>
+    <details><summary><span><span class="lvl">Profitability</span>EBITDA and EBITDA margin</span></summary><div class="body">
+      <p>Earnings Before Interest, Taxes, Depreciation and Amortisation. It shows what the core business earns before financing choices, tax and accounting for old investments.</p>
+      <div class="formula">EBITDA = Revenue − operating costs<br>EBITDA margin = EBITDA ÷ Revenue</div>
+      <p>Revenue ₹1,000 cr, operating costs ₹780 cr → EBITDA ₹220 cr, margin 22%. Compare margins only within a sector: IT runs near 20–25%, retail far lower.</p>
+      <p><b>Watch out:</b> EBITDA is not cash. It ignores the capex a business must spend to stay alive, and interest on its debt. Heavy-debt or capital-hungry firms love quoting it.</p>
+    </div></details>
+    <details><summary><span><span class="lvl">Valuation</span>Enterprise value and EV/EBITDA</span></summary><div class="body">
+      <p>Enterprise value is the price to buy the whole business, including its debts.</p>
+      <div class="formula">EV = Market cap + Total debt − Cash<br>EV/EBITDA = EV ÷ EBITDA</div>
+      <p>Market cap ₹5,000 cr, debt ₹1,200 cr, cash ₹200 cr → EV ₹6,000 cr. With EBITDA of ₹600 cr, EV/EBITDA is 10×.</p>
+      <p>Better than P/E for comparing companies with different debt levels, such as steel, telecom and power companies.</p>
+    </div></details>
+    <details><summary><span><span class="lvl">Profitability</span>ROE, ROCE and the DuPont breakdown</span></summary><div class="body">
+      <div class="formula">ROE = Net profit ÷ Shareholders' equity<br>ROCE = EBIT ÷ (Equity + Debt)</div>
+      <p>ROE is the return on owners' money; ROCE is the return on all money in the business, so debt can't flatter it.</p>
+      <p><b>DuPont</b> splits ROE into three drivers:</p>
+      <div class="formula">ROE = (Profit ÷ Sales) × (Sales ÷ Assets) × (Assets ÷ Equity)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= Margin × Asset turnover × Leverage</div>
+      <p>Two firms with 20% ROE can be very different: one earns it through fat margins, the other through borrowing. The second is riskier.</p>
+    </div></details>
+    <details><summary><span><span class="lvl">Cash</span>Free cash flow</span></summary><div class="body">
+      <div class="formula">FCF = Cash from operations − Capital expenditure</div>
+      <p>The cash left after running and maintaining the business. It pays dividends, buys back shares and clears debt.</p>
+      <p>Profit can be inflated by accounting choices; cash is harder to fake. A company reporting rising profits but negative FCF year after year deserves a closer look at receivables and inventory.</p>
+    </div></details>
+    <details><summary><span><span class="lvl">Modelling</span>DCF: valuing a business from its cash flows</span></summary><div class="body">
+      <p>A Discounted Cash Flow model says a business is worth all its future free cash flows, brought back to today's money.</p>
+      <div class="formula">Value = Σ FCF<sub>t</sub> ÷ (1 + r)<sup>t</sup> + TV ÷ (1 + r)<sup>n</sup><br>Terminal value TV = FCF<sub>n+1</sub> ÷ (r − g)</div>
+      <p>r = discount rate (WACC), g = long-run growth after year n. Try it:</p>
+      <div class="dcf" id="dcf">
+        <label>FCF this year (₹ cr)<input type="number" id="d_fcf" value="100" step="any"></label>
+        <label>Growth, years 1–5 (%)<input type="number" id="d_g" value="10" step="any"></label>
+        <label>Discount rate r (%)<input type="number" id="d_r" value="12" step="any"></label>
+        <label>Terminal growth g (%)<input type="number" id="d_tg" value="5" step="any"></label>
+        <label>Net debt (₹ cr)<input type="number" id="d_debt" value="145" step="any"></label>
+        <label>Shares (crore)<input type="number" id="d_sh" value="10" step="any"></label>
+        <div class="dcf-out" id="d_out" aria-live="polite"></div>
+      </div>
+      <p><b>Lesson:</b> with the defaults, about three-quarters of the value comes from the terminal value. Change r or g by 1% and watch the answer swing. A DCF is only as good as its assumptions.</p>
+    </div></details>
+    <details><summary><span><span class="lvl">Modelling</span>WACC and CAPM: the discount rate</span></summary><div class="body">
+      <p>CAPM estimates the return shareholders demand:</p>
+      <div class="formula">Cost of equity K<sub>e</sub> = R<sub>f</sub> + β × (R<sub>m</sub> − R<sub>f</sub>)</div>
+      <p>Say the 10-year G-sec yields 7%, the stock's beta is 1.1, and the equity risk premium is 6%: K<sub>e</sub> = 7 + 1.1 × 6 = 13.6%.</p>
+      <div class="formula">WACC = (E ÷ V) × K<sub>e</sub> + (D ÷ V) × K<sub>d</sub> × (1 − tax)</div>
+      <p>The weighted cost of all capital. A business creates value only when its ROCE beats its WACC.</p>
+    </div></details>
+    <details><summary><span><span class="lvl">Risk</span>Beta, volatility, Sharpe ratio and drawdown</span></summary><div class="body">
+      <ul><li><b>Beta (β):</b> how much a stock moves with the market. β 1.3 tends to move 1.3% when Nifty moves 1%.</li>
+      <li><b>Volatility (σ):</b> standard deviation of returns. Nifty's long-run yearly σ is roughly 15–20%.</li>
+      <li><b>Sharpe ratio:</b> return earned per unit of risk.</li></ul>
+      <div class="formula">Sharpe = (R<sub>p</sub> − R<sub>f</sub>) ÷ σ<sub>p</sub></div>
+      <p>Fund A returns 15% with σ 20%; fund B returns 13% with σ 12%. With R<sub>f</sub> 7%, A's Sharpe is 0.40 and B's is 0.50. B gives more return per unit of risk.</p>
+      <p><b>Max drawdown:</b> the worst fall from a peak to a trough. It tells you how much pain you'd have had to sit through.</p>
+    </div></details>
+    <details><summary><span><span class="lvl">Modelling</span>CAGR, XIRR and Monte Carlo</span></summary><div class="body">
+      <div class="formula">CAGR = (End value ÷ Start value)<sup>1/years</sup> − 1</div>
+      <p>₹1 lakh growing to ₹2.5 lakh in 7 years is a CAGR of 14.0%.</p>
+      <p><b>XIRR</b> is the right measure when money goes in at different times, like a SIP. It finds the single rate that makes the present value of all your cash flows zero. Spreadsheets have an XIRR function.</p>
+      <p><b>Monte Carlo simulation</b> replaces "assume 12% every year" with thousands of random return paths built from an average and a volatility. Instead of one answer, you get odds, such as "an 80% chance of reaching ₹20 lakh in 10 years". It's how professionals stress-test retirement and goal plans.</p>
+    </div></details>
+    <details><summary><span><span class="lvl">Valuation</span>Margin of safety and operating leverage</span></summary><div class="body">
+      <p><b>Margin of safety</b> (Benjamin Graham): buy only when the price is well below your estimate of value, say 25–30% below a DCF value, so errors in your model don't sink you.</p>
+      <p><b>Operating leverage:</b> when most costs are fixed, a small rise in sales causes a big rise in profit, and the reverse in a downturn.</p>
+      <div class="formula">Degree of operating leverage = % change in EBIT ÷ % change in sales</div>
+      <p>A DOL of 3 means a 10% sales rise lifts operating profit about 30%. Airlines, cement and telecom carry high operating leverage.</p>
     </div></details>
     <details><summary><span><span class="lvl">Funds</span>What is a SIP?</span></summary><div class="body">
       <p>A Systematic Investment Plan puts a fixed amount into a mutual fund every month. When prices are low you buy more units, and when they are high you buy fewer. Over years this smooths out the ups and downs.</p>
@@ -696,6 +767,22 @@ $("pfExport").addEventListener("click",async()=>{const t=JSON.stringify(PF);try{
 $("pfImportBtn").addEventListener("click",()=>{$("pfImportBox").hidden=!$("pfImportBox").hidden;$("pfImportText").focus()});
 $("pfImportGo").addEventListener("click",()=>{try{const d=JSON.parse($("pfImportText").value);if(!Array.isArray(d))throw 0;PF=d.filter(h=>h&&h.sym&&h.qty>0&&h.buy>0).map(h=>({sym:String(h.sym).toUpperCase(),qty:+h.qty,buy:+h.buy,ltp:+h.ltp||0}));savePF();renderPortfolio();$("pfImportBox").hidden=true;$("pfMsg").textContent=`Restored ${PF.length} holdings.`}catch{$("pfMsg").textContent="That backup text isn't valid. Copy it again and paste the whole thing."}});
 renderPortfolio();
+
+// ---------- DCF calculator (Learn section) ----------
+function dcfCalc(fcf,g,r,tg,debt,sh){
+  let pv=0,f=fcf;for(let t=1;t<=5;t++){f*=1+g;pv+=f/Math.pow(1+r,t)}
+  if(r<=tg)return null;
+  const tv=f*(1+tg)/(r-tg),ptv=tv/Math.pow(1+r,5),ev=pv+ptv,eq=ev-debt;
+  return{pv,ptv,ev,eq,ps:sh>0?eq/sh:null,share:ptv/ev};
+}
+function dcfRender(){
+  const v=id=>+$(id).value,o=$("d_out");
+  const res=dcfCalc(v("d_fcf"),v("d_g")/100,v("d_r")/100,v("d_tg")/100,v("d_debt"),v("d_sh"));
+  if(!res){o.textContent="The discount rate must be higher than terminal growth, or the formula breaks.";return}
+  o.innerHTML=`Value per share<b>${res.ps==null?"—":"₹"+fmtNum(res.ps,0)}</b>Enterprise value ₹${fmtNum(res.ev,0)} cr · equity ₹${fmtNum(res.eq,0)} cr<br>Terminal value is ${(res.share*100).toFixed(0)}% of the total`;
+}
+["d_fcf","d_g","d_r","d_tg","d_debt","d_sh"].forEach(id=>$(id).addEventListener("input",dcfRender));
+dcfRender();
 
 // ---------- calendar ----------
 const EVENTS=[
