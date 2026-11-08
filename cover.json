@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T20:06+05:30",
+ "updated": "2026-11-08T20:45+05:30",
  "issue": [
   "Issue 01",
   "Market close · Sun 8 Nov 2026"
@@ -8,7 +8,7 @@
   "Streak",
   "snapped."
  ],
- "deck": "Nifty closed at 24,986 (▼ 0.18%) and Sensex at 80,999 (▼ 0.04%). Over the last five sessions Nifty is up 6.6%. Brent crude is near $98 a barrel and the rupee at 93.91 to the dollar.",
+ "deck": "Nifty closed at 24,986 (▼ 0.18%) and Sensex at 80,999 (▼ 0.04%). Over the last five sessions Nifty is up 6.6%. Brent crude is near $98 a barrel and the rupee at 93.89 to the dollar.",
  "stats": [
   {
    "v": "80,999",
@@ -25,8 +25,8 @@
  ],
  "story": [
   "Of the 80 large stocks this page tracks, 29 rose and 49 fell. SIEMENS led the gainers (+3.06%), while NHPC fell the most (-1.27%). Bank Nifty ended ▼ 0.40%.",
-  "Across markets: Brent crude near $98 a barrel (-16.4% on the week), the rupee at 93.91 per dollar (stronger on the week), gold near $4,075 an ounce.",
-  "In the headlines: “Sensex ends 29 points lower, Nifty at 24,986 in Muhurat trade as FPIs return to Indian equities” (Kalinga TV). “Iran says three tankers caught fire in Strait of Hormuz” (Al Arabiya English).",
+  "Across markets: Brent crude near $98 a barrel (-16.4% on the week), the rupee at 93.89 per dollar (stronger on the week), gold near $4,075 an ounce.",
+  "In the headlines: “Recovery signals: Sensex valuation rebounds as November rally gathers pace” (Business Standard). “Iran says three tankers caught fire in Strait of Hormuz” (Al Arabiya English).",
   "One session says little about the long run. Oil, the Iran war and foreign flows remain the big swing factors."
  ],
  "drivers": [
@@ -35,8 +35,8 @@
    "p": "Brent is down 16.4% in a week. India imports most of its crude, so cheaper oil eases inflation, supports the rupee and helps oil users."
   },
   {
-   "h": "Rupee 93.91",
-   "p": "The rupee is at 93.91 per dollar, stronger than a week ago. A firmer rupee eases import costs and tends to steady foreign investors."
+   "h": "Rupee 93.89",
+   "p": "The rupee is at 93.89 per dollar, stronger than a week ago. A firmer rupee eases import costs and tends to steady foreign investors."
   },
   {
    "h": "World",
