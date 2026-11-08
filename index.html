@@ -165,6 +165,81 @@ svg.chart{width:100%;height:auto;display:block;background:var(--paper);border:2p
 .cmp .t{font-family:var(--f-display);font-weight:800;font-size:22px;letter-spacing:-.02em;display:block}
 .cmp .r{font-family:var(--f-data);font-size:12px;color:var(--muted)}
 
+/* commodities */
+.commod{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:0;border-left:2px solid var(--ink);border-top:2px solid var(--ink);margin-top:32px}
+.tile{border-right:2px solid var(--ink);border-bottom:2px solid var(--ink);padding:20px;display:grid;gap:8px;align-content:start;min-width:0;background:var(--card)}
+.tile-top{display:flex;justify-content:space-between;align-items:baseline;gap:8px}
+.tile h3{font-weight:800;font-size:24px;letter-spacing:-.02em}
+.chgpill{font-family:var(--f-data);font-size:13px;font-weight:500;padding:2px 8px;color:#fff;background:var(--muted)}
+.chgpill.up{background:var(--up)} .chgpill.down{background:var(--down)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .chgpill{color:#0C110F}}
+:root[data-theme="dark"] .chgpill{color:#0C110F}
+.tile .price{font-family:var(--f-display);font-weight:800;font-size:clamp(32px,4vw,46px);line-height:1;letter-spacing:-.03em}
+.tile .unit{font-family:var(--f-data);font-size:12px;color:var(--muted)}
+.tile .inr{font-family:var(--f-data);font-size:14px}
+.tile .why{font-size:14px;color:var(--muted);margin:0}
+.spark{width:100%;height:44px;display:block}
+.note{font-size:13px;color:var(--muted);margin-top:12px}
+.empty{padding:28px;border:2px dashed var(--line);color:var(--muted);text-align:center}
+
+/* portfolio */
+.pf-summary{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));border-bottom:2px solid var(--ink);margin-top:28px}
+.pf-summary div{padding:16px 16px 16px 0}
+.pf-summary div + div{padding-left:16px;border-left:1px solid var(--line)}
+.pf-summary .v{font-family:var(--f-display);font-weight:800;font-size:clamp(28px,4.5vw,52px);letter-spacing:-.03em;line-height:1;display:block;margin-top:6px}
+.alloc{display:flex;height:14px;margin:16px 0 4px;overflow:hidden;background:var(--line)}
+.alloc span{display:block;height:100%}
+.alloc-legend{display:flex;flex-wrap:wrap;gap:6px 14px;font-size:13px;color:var(--muted)}
+.alloc-legend i{display:inline-block;width:10px;height:10px;margin-right:5px;vertical-align:-1px}
+form.pf-add{display:grid;grid-template-columns:1.3fr .8fr 1fr 1fr auto;gap:10px;align-items:end;margin-top:24px;padding:16px;background:var(--card);border:2px solid var(--ink)}
+form.pf-add label{display:block;font-family:var(--f-display);font-weight:600;font-size:13px;margin-bottom:4px}
+form.pf-add input{width:100%;font-family:var(--f-data);font-size:16px;padding:9px 10px;border:2px solid var(--line);border-radius:0;background:var(--paper);color:var(--ink)}
+form.pf-add input:focus{border-color:var(--ink)}
+.btn{font-family:var(--f-display);font-weight:800;font-size:15px;padding:11px 18px;border:2px solid var(--ink);background:var(--ink);color:var(--paper);cursor:pointer;border-radius:0}
+.btn.ghost{background:transparent;color:var(--ink)}
+.btn:hover{opacity:.85}
+.pf-table-wrap{overflow-x:auto;margin-top:20px}
+.pf-table{border-collapse:collapse;width:100%;min-width:760px;font-size:15px}
+.pf-table th{font-family:var(--f-display);font-weight:600;font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);text-align:right;padding:10px 8px;border-bottom:2px solid var(--ink)}
+.pf-table th:first-child,.pf-table td:first-child{text-align:left}
+.pf-table td{padding:12px 8px;border-bottom:1px solid var(--line);text-align:right;font-family:var(--f-data);font-variant-numeric:tabular-nums;white-space:nowrap}
+.pf-table td:first-child{font-family:var(--f-display);font-weight:800;font-size:17px}
+.pf-table input{width:96px;font-family:var(--f-data);font-size:14px;padding:5px 6px;text-align:right;border:1px dashed var(--muted);background:transparent;color:var(--ink)}
+.pf-table .src{display:block;font-size:11px;color:var(--muted)}
+.del{background:none;border:0;color:var(--muted);cursor:pointer;font-size:18px;padding:2px 6px}
+.del:hover{color:var(--down)}
+.pf-tools{display:flex;gap:10px;flex-wrap:wrap;margin-top:16px;align-items:center}
+.pf-tools textarea{width:100%;min-height:90px;font-family:var(--f-data);font-size:13px;padding:10px;border:2px solid var(--line);background:var(--card);color:var(--ink)}
+
+/* calendar */
+.cal{margin-top:28px;display:grid;gap:0}
+.cal-month{font-family:var(--f-display);font-weight:800;font-size:13px;letter-spacing:.14em;text-transform:uppercase;padding:20px 0 8px;color:var(--muted)}
+.ev{display:grid;grid-template-columns:110px minmax(0,1fr) auto;gap:20px;align-items:center;padding:16px 0;border-top:1px solid var(--line)}
+.ev .day{font-family:var(--f-display);font-weight:800;font-size:44px;line-height:.9;letter-spacing:-.04em}
+.ev .day small{display:block;font-family:var(--f-data);font-weight:400;font-size:12px;letter-spacing:0;color:var(--muted);margin-top:6px}
+.ev h3{font-weight:600;font-size:20px;line-height:1.2}
+.ev p{margin:4px 0 0;font-size:15px;color:var(--muted)}
+.ev .tag{justify-self:end}
+.tag[data-c="Holiday"]{background:var(--hot)}
+.tag[data-c="RBI"]{background:var(--jade);color:var(--jade-ink)}
+.tag[data-c="Global"],.tag[data-c="Data"]{background:var(--saffron);color:var(--saffron-ink)}
+.tag[data-c="Budget"],.tag[data-c="Results"]{background:var(--ink)}
+.ev.soon .day{color:var(--hot)}
+
+/* learn */
+.learn{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin-top:28px}
+.learn details{border:2px solid var(--ink);background:var(--card)}
+.learn summary{cursor:pointer;list-style:none;padding:18px 20px;display:flex;justify-content:space-between;gap:12px;align-items:center;font-family:var(--f-display);font-weight:800;font-size:21px;letter-spacing:-.02em;line-height:1.15}
+.learn summary::-webkit-details-marker{display:none}
+.learn summary::after{content:"+";font-size:28px;font-weight:400;line-height:1}
+.learn details[open] summary{background:var(--ink);color:var(--paper)}
+.learn details[open] summary::after{content:"–"}
+.learn .body{padding:16px 20px 20px;font-size:16px}
+.learn .body p{margin:0 0 10px}
+.learn .body ul{margin:0 0 10px;padding-left:20px}
+.learn .lvl{font-family:var(--f-data);font-weight:400;font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);display:block;margin-bottom:4px}
+.learn details[open] .lvl{color:var(--saffron)}
+
 footer{background:var(--ink);color:var(--paper)}
 footer .wrap{padding-block:32px;font-size:14px;display:grid;gap:8px}
 footer p{margin:0;max-width:80ch;opacity:.8}
@@ -176,6 +251,10 @@ footer .logo{font-size:40px}
   .oil-row{grid-template-columns:1fr 1fr}
   .oil-row .price{grid-column:1/-1}
   .cmp{grid-template-columns:1fr 1fr}
+  .commod{grid-template-columns:repeat(2,minmax(0,1fr))}
+  form.pf-add{grid-template-columns:1fr 1fr}
+  form.pf-add .btn{grid-column:1/-1}
+  .learn{grid-template-columns:minmax(0,1fr)}
 }
 @media (max-width:640px){
   .board,.feed{grid-template-columns:minmax(0,1fr)}
@@ -186,6 +265,13 @@ footer .logo{font-size:40px}
   .stat + .stat{border-left:0;padding-left:0;border-top:1px solid color-mix(in srgb,var(--jade-ink) 30%,transparent)}
   .stat{padding-bottom:14px}
   .hh,.split,.oil-row{grid-template-columns:minmax(0,1fr)}
+  .commod{grid-template-columns:minmax(0,1fr)}
+  .pf-summary{grid-template-columns:minmax(0,1fr)}
+  .pf-summary div + div{padding-left:0;border-left:0;border-top:1px solid var(--line)}
+  .ev{grid-template-columns:72px minmax(0,1fr);gap:14px}
+  .ev .day{font-size:34px}
+  .ev .tag{grid-column:2;justify-self:start}
+  nav.tabs{flex-wrap:nowrap;overflow-x:auto;width:100%;scrollbar-width:none}
 }
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}.dot{animation:none}}
 </style>
@@ -196,11 +282,12 @@ footer .logo{font-size:40px}
   <div class="wrap mast-row">
     <a class="logo" href="#top">Dalal<em>Desk</em></a>
     <nav class="tabs" aria-label="Sections">
-      <a href="#news">Headlines</a><a href="#world">War &amp; diplomacy</a><a href="#plan">Goal planner</a>
+      <a href="#news">Headlines</a><a href="#world">War</a><a href="#commodities">Commodities</a><a href="#portfolio">Portfolio</a><a href="#plan">Planner</a><a href="#calendar">Calendar</a><a href="#learn">Learn</a>
     </nav>
   </div>
   <div class="ticker"><div class="wrap ticker-in">
     <span class="tk"><span class="dot" aria-hidden="true"></span><b>Market pulse</b><a class="pulse" id="pulse" href="#news">Loading…</a></span>
+    <span id="tkMarkets" style="display:contents"></span>
     <span class="tk"><b>Updated</b><span class="num" id="updated">—</span></span>
   </div></div>
 </header>
@@ -272,6 +359,52 @@ footer .logo{font-size:40px}
   </div>
 </div></section>
 
+<section id="commodities"><div class="wrap">
+  <div class="opener">
+    <div><h2>Commodities</h2><p>Global prices that move Indian stocks, the rupee and inflation. Refreshed with the headlines every 12 hours.</p></div>
+  </div>
+  <div class="commod" id="commod"><div class="tile empty" style="grid-column:1/-1">Prices appear after the first automatic update.</div></div>
+  <p class="note" id="commodNote">International futures prices, may be delayed. ₹ figures are converted at the current USD/INR rate and exclude import duty and GST, so MCX and jeweller prices will be higher.</p>
+</div></section>
+
+<section id="portfolio"><div class="wrap">
+  <div class="opener">
+    <div><h2>My portfolio</h2><p>Add what you own to see its value and profit or loss. Saved only in this browser, on this device. Nobody else can see it.</p></div>
+  </div>
+  <div class="pf-summary">
+    <div><span class="kicker">Current value</span><span class="v num" id="pfValue">₹0</span></div>
+    <div><span class="kicker">Total profit / loss</span><span class="v num" id="pfPL">₹0</span></div>
+    <div><span class="kicker">Today</span><span class="v num" id="pfDay">—</span></div>
+  </div>
+  <div class="alloc" id="pfAlloc" aria-hidden="true"></div>
+  <div class="alloc-legend" id="pfLegend"></div>
+
+  <form class="pf-add" id="pfForm" autocomplete="off">
+    <div><label for="pfSym">NSE symbol</label><input id="pfSym" list="symList" placeholder="RELIANCE" required></div>
+    <div><label for="pfQty">Quantity</label><input id="pfQty" type="number" min="0" step="any" placeholder="10" required></div>
+    <div><label for="pfBuy">Avg buy price (₹)</label><input id="pfBuy" type="number" min="0" step="any" placeholder="1250" required></div>
+    <div><label for="pfLtp">Current price (₹)</label><input id="pfLtp" type="number" min="0" step="any" placeholder="Auto if listed"></div>
+    <button class="btn" type="submit">Add holding</button>
+    <datalist id="symList"></datalist>
+  </form>
+
+  <div class="pf-table-wrap">
+    <table class="pf-table">
+      <thead><tr><th>Stock</th><th>Qty</th><th>Avg buy</th><th>Current price</th><th>Invested</th><th>Value</th><th>P/L</th><th>Today</th><th></th></tr></thead>
+      <tbody id="pfBody"></tbody>
+    </table>
+  </div>
+  <div class="empty" id="pfEmpty">No holdings yet. Add one above, or <button class="btn ghost" type="button" id="pfSample" style="padding:6px 12px;font-size:14px">load sample holdings</button> to try it.</div>
+  <div class="pf-tools">
+    <button class="btn ghost" type="button" id="pfExport">Copy backup</button>
+    <button class="btn ghost" type="button" id="pfImportBtn">Restore from backup</button>
+    <button class="btn ghost" type="button" id="pfClear">Clear all</button>
+    <span class="meta" id="pfMsg" aria-live="polite"></span>
+    <div id="pfImportBox" hidden style="width:100%"><textarea id="pfImportText" placeholder="Paste your backup here"></textarea><button class="btn" type="button" id="pfImportGo" style="margin-top:8px">Restore</button></div>
+  </div>
+  <p class="note">Prices fill in automatically for stocks listed in <code>symbols.txt</code> in your GitHub repository. For anything else, type the current price in the table. Use "Copy backup" to move your portfolio to your phone.</p>
+</div></section>
+
 <section id="plan" class="planwrap"><div class="wrap">
   <div class="opener">
     <div><h2>Goal planner</h2><p>How long until your savings reach your target, with a lump sum, a monthly SIP and a yearly step-up. Starts with ₹1 lakh to ₹20 lakh.</p></div>
@@ -294,6 +427,69 @@ footer .logo{font-size:40px}
       <div class="legend"><span><i style="background:var(--jade)"></i>Portfolio value</span><span><i style="background:var(--muted)"></i>Money you put in</span><span><i style="background:var(--hot)"></i>Target</span></div>
       <div class="cmp" id="cmp"></div>
     </div>
+  </div>
+</div></section>
+
+<section id="calendar"><div class="wrap">
+  <div class="opener">
+    <div><h2>Calendar</h2><p>Market holidays and the events most likely to move prices. Past dates drop off by themselves.</p></div>
+  </div>
+  <div class="cal" id="cal"></div>
+  <p class="note">"Expected" means the date follows the usual pattern but hasn't been officially announced. To add an event, edit the <code>EVENTS</code> list in index.html.</p>
+</div></section>
+
+<section id="learn"><div class="wrap">
+  <div class="opener">
+    <div><h2>Beginner's corner</h2><p>The ideas you need to read the news on this page and invest with a plan. Tap a card to open it.</p></div>
+  </div>
+  <div class="learn">
+    <details><summary><span><span class="lvl">Basics</span>What are Sensex and Nifty?</span></summary><div class="body">
+      <p>They are scoreboards for the Indian stock market. <b>Sensex</b> tracks 30 large companies on the BSE. <b>Nifty 50</b> tracks 50 large companies on the NSE.</p>
+      <p>When news says "Nifty rose 2%", it means those 50 companies' combined value went up 2% that day. Your own stocks can move differently.</p>
+    </div></details>
+    <details><summary><span><span class="lvl">Basics</span>How do I start investing?</span></summary><div class="body">
+      <ul><li>Keep 3–6 months of expenses aside as an emergency fund first.</li>
+      <li>Open a demat and trading account with a SEBI-registered broker and complete KYC with PAN and Aadhaar.</li>
+      <li>Start with a monthly SIP in a low-cost Nifty 50 or Nifty 500 index fund (direct plan).</li>
+      <li>Pick single stocks only with money you can afford to see fall a lot.</li></ul>
+    </div></details>
+    <details><summary><span><span class="lvl">Funds</span>What is a SIP?</span></summary><div class="body">
+      <p>A Systematic Investment Plan puts a fixed amount into a mutual fund every month. When prices are low you buy more units, and when they are high you buy fewer. Over years this smooths out the ups and downs.</p>
+      <p>The goal planner above shows how a SIP grows. Raising it 10% every year (a step-up) makes a big difference.</p>
+    </div></details>
+    <details><summary><span><span class="lvl">Funds</span>Index fund or active fund?</span></summary><div class="body">
+      <p>An <b>index fund</b> simply buys every stock in an index like Nifty 50. Fees are very low, often 0.1–0.3% a year.</p>
+      <p>An <b>active fund</b> has a manager picking stocks and charges more, often 0.5–1.5% in direct plans. Many active funds fail to beat their index over long periods, which is why index funds are a good starting point.</p>
+    </div></details>
+    <details><summary><span><span class="lvl">Reading stocks</span>What is the P/E ratio?</span></summary><div class="body">
+      <p>Price-to-earnings = share price ÷ profit per share. A P/E of 25 means you pay ₹25 for every ₹1 the company earns in a year.</p>
+      <p>High P/E means investors expect fast growth, or the stock is expensive. Low P/E can mean cheap, or a business in trouble. Compare P/E only with similar companies in the same sector.</p>
+    </div></details>
+    <details><summary><span><span class="lvl">Reading the news</span>Who are FIIs and DIIs?</span></summary><div class="body">
+      <p><b>FIIs</b> (foreign institutional investors) are overseas funds investing in India. <b>DIIs</b> are Indian mutual funds, insurers and pension funds.</p>
+      <p>When FIIs sell heavily, the market and the rupee often fall. In Samvat 2082, FIIs sold a record ₹4.55 trillion while DIIs, fed by everyday SIPs, bought even more.</p>
+    </div></details>
+    <details><summary><span><span class="lvl">Reading the news</span>Why does oil move Indian stocks?</span></summary><div class="body">
+      <p>India imports most of the crude oil it uses, paying in dollars. When oil rises, more dollars leave the country, the rupee weakens, fuel and transport costs push inflation up, and the RBI is less likely to cut rates.</p>
+      <p>Paint, airline, tyre and oil-marketing companies are hit hardest. That's why the War section tracks Brent crude so closely.</p>
+    </div></details>
+    <details><summary><span><span class="lvl">Reading the news</span>What does the RBI repo rate do?</span></summary><div class="body">
+      <p>The repo rate is what the RBI charges banks to borrow. When it goes up, loan EMIs and FD rates usually rise, and stocks of banks, real estate and autos can feel pressure. When it goes down, the opposite tends to happen.</p>
+      <p>The RBI's policy committee meets six times a year. The next dates are in the Calendar.</p>
+    </div></details>
+    <details><summary><span><span class="lvl">Money</span>How are stock gains taxed?</span></summary><div class="body">
+      <p>Under the rules in force since July 2024, for listed shares and equity funds:</p>
+      <ul><li>Held over 12 months: long-term gains above ₹1.25 lakh a year are taxed at 12.5%.</li>
+      <li>Held 12 months or less: short-term gains are taxed at 20%.</li></ul>
+      <p>Tax rules change with each Budget, so confirm the current rates with a tax adviser before you sell.</p>
+    </div></details>
+    <details><summary><span><span class="lvl">Money</span>Mistakes beginners make</span></summary><div class="body">
+      <ul><li>Trading futures & options. SEBI studies have found about 9 in 10 retail F&O traders lose money.</li>
+      <li>Buying on tips from Telegram, WhatsApp or "guaranteed return" schemes.</li>
+      <li>Stopping a SIP when markets fall, which is exactly when it buys cheapest.</li>
+      <li>Putting everything in one stock or one sector.</li>
+      <li>Checking prices every hour and reacting to every headline.</li></ul>
+    </div></details>
   </div>
 </div></section>
 </main>
@@ -375,7 +571,7 @@ document.getElementById("board").innerHTML=BOARD.map(b=>`<article class="card">
 const links=[...document.querySelectorAll("nav.tabs a")];
 if("IntersectionObserver" in window){
   const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting)links.forEach(a=>a.classList.toggle("on",a.getAttribute("href")==="#"+e.target.id))}),{rootMargin:"-40% 0px -55% 0px"});
-  ["news","world","plan"].forEach(id=>io.observe(document.getElementById(id)));
+  ["news","world","commodities","portfolio","plan","calendar","learn"].forEach(id=>io.observe(document.getElementById(id)));
 }
 
 // planner
@@ -419,6 +615,114 @@ function plan(){
 }
 ["p_lump","p_sip","p_target","p_rate","p_step"].forEach(id=>$(id).addEventListener("input",plan));
 plan();
+
+// ---------- prices (prices.json from the GitHub Action) ----------
+let PRICES={markets:{},commodities:{},stocks:{}};
+const sign=v=>v>0?"up":v<0?"down":"";
+const pctTxt=v=>(v>0?"▲ ":v<0?"▼ ":"")+Math.abs(v).toFixed(2)+"%";
+const fmtNum=(v,d=2)=>Number(v).toLocaleString("en-IN",{minimumFractionDigits:d,maximumFractionDigits:d});
+function sparkSvg(arr,cls){
+  if(!arr||arr.length<2)return"";
+  const w=200,h=44,mn=Math.min(...arr),mx=Math.max(...arr),r=mx-mn||1;
+  const pts=arr.map((v,i)=>`${(i/(arr.length-1)*w).toFixed(1)},${(h-4-(v-mn)/r*(h-8)).toFixed(1)}`);
+  const col=cls==="down"?"var(--down)":"var(--up)";
+  return `<svg class="spark" viewBox="0 0 ${w} ${h}" preserveAspectRatio="none" aria-hidden="true"><polygon points="0,${h} ${pts.join(" ")} ${w},${h}" fill="${col}" fill-opacity=".12"/><polyline points="${pts.join(" ")}" fill="none" stroke="${col}" stroke-width="2" vector-effect="non-scaling-stroke"/></svg>`;
+}
+const WHY={"GC=F":"Rises when the world is nervous. A weaker rupee makes it costlier in India.","SI=F":"Half precious metal, half industrial metal. Moves with gold and factory demand.","BZ=F":"India's main import. Higher Brent hurts the rupee, inflation and oil users.","CL=F":"The US oil benchmark. Usually moves with Brent.","NG=F":"Feeds city gas, fertiliser and power companies.","HG=F":"A read on global factory demand. Matters for Hindalco, Vedanta and metal stocks."};
+function renderCommodities(){
+  const c=PRICES.commodities||{},inr=PRICES.markets?.["INR=X"]?.p;
+  const keys=Object.keys(c);if(!keys.length)return;
+  $("commod").innerHTML=keys.map(k=>{const q=c[k],s=sign(q.pct);let rupee="";
+    if(inr&&k==="GC=F")rupee=`≈ ₹${fmtNum(q.p*inr/31.1035*10,0)} per 10 g`;
+    if(inr&&k==="SI=F")rupee=`≈ ₹${fmtNum(q.p*inr*32.1507,0)} per kg`;
+    if(inr&&(k==="BZ=F"||k==="CL=F"))rupee=`≈ ₹${fmtNum(q.p*inr,0)} per barrel`;
+    return `<div class="tile"><div class="tile-top"><h3>${esc(q.name)}</h3><span class="chgpill ${s}">${pctTxt(q.pct)}</span></div>
+    <div><span class="price num">$${fmtNum(q.p,q.p<10?3:2)}</span> <span class="unit">${esc(q.unit||"")}</span></div>
+    ${rupee?`<div class="inr">${rupee}</div>`:""}${sparkSvg(q.spark,s)}<p class="why">${WHY[k]||""}</p></div>`}).join("");
+}
+function renderTickerMarkets(){
+  const m=PRICES.markets||{},order=["^NSEI","^BSESN","^NSEBANK","INR=X"];
+  $("tkMarkets").innerHTML=order.filter(k=>m[k]).map(k=>{const q=m[k];return `<span class="tk"><b>${esc(q.name)}</b><span class="num">${fmtNum(q.p,k==="INR=X"?2:0)}</span><span class="num">${pctTxt(q.pct)}</span></span>`}).join("");
+}
+fetch("prices.json",{cache:"no-store"}).then(r=>r.ok?r.json():null).then(j=>{
+  if(!j)return;PRICES=j;renderCommodities();renderTickerMarkets();
+  $("symList").innerHTML=Object.keys(j.stocks||{}).sort().map(s=>`<option value="${esc(s)}">`).join("");
+  if(j.updated)$("commodNote").textContent=`Prices as of ${fmt(new Date(j.updated))} IST. International futures prices, may be delayed. ₹ figures use the current USD/INR rate and exclude import duty and GST, so MCX and jeweller prices will be higher.`;
+  renderPortfolio();
+}).catch(()=>{});
+
+// ---------- portfolio (saved in this browser) ----------
+const PF_KEY="dalaldesk_portfolio_v1";
+let PF=[];
+try{PF=JSON.parse(localStorage.getItem(PF_KEY)||"[]");if(!Array.isArray(PF))PF=[]}catch{PF=[]}
+const savePF=()=>{try{localStorage.setItem(PF_KEY,JSON.stringify(PF))}catch{}};
+const rs=v=>(v<0?"−":"")+"₹"+Math.abs(Math.round(v)).toLocaleString("en-IN");
+const PALETTE=["var(--jade)","var(--saffron)","var(--hot)","var(--ink)","var(--up)","var(--watch)","var(--muted)"];
+function quoteFor(h){const q=PRICES.stocks?.[h.sym];if(q)return{p:q.p,pct:q.pct,chg:q.chg,src:"auto"};if(h.ltp>0)return{p:h.ltp,pct:null,src:"you"};return{p:null,pct:null,src:"none"}}
+function renderPortfolio(){
+  const body=$("pfBody");let inv=0,val=0,dayChg=0,dayKnown=false;
+  const rows=PF.map((h,i)=>{const q=quoteFor(h),cost=h.qty*h.buy,v=q.p!=null?h.qty*q.p:cost;inv+=cost;val+=v;
+    let dayCell="—";if(q.src==="auto"&&q.chg!=null){const d=q.chg*h.qty;dayChg+=d;dayKnown=true;dayCell=`<span class="${sign(d)}">${rs(d)}</span>`}
+    const pl=v-cost,plp=cost?pl/cost*100:0;
+    return {h,i,q,cost,v,pl,plp,dayCell}});
+  body.innerHTML=rows.map(r=>`<tr>
+    <td>${esc(r.h.sym)}</td><td>${fmtNum(r.h.qty,r.h.qty%1?2:0)}</td><td>₹${fmtNum(r.h.buy)}</td>
+    <td>${r.q.src==="auto"?`₹${fmtNum(r.q.p)}<span class="src">auto · ${pctTxt(r.q.pct)}</span>`:`<input type="number" step="any" min="0" data-i="${r.i}" value="${r.h.ltp||""}" placeholder="type price" aria-label="Current price of ${esc(r.h.sym)}"><span class="src">${r.q.src==="you"?"entered by you":"not in symbols.txt"}</span>`}</td>
+    <td>${rs(r.cost)}</td><td>${rs(r.v)}</td>
+    <td class="${sign(r.pl)}">${rs(r.pl)}<span class="src">${r.plp>=0?"+":""}${r.plp.toFixed(1)}%</span></td>
+    <td>${r.dayCell}</td><td><button class="del" data-del="${r.i}" aria-label="Remove ${esc(r.h.sym)}">×</button></td></tr>`).join("");
+  $("pfEmpty").hidden=PF.length>0;
+  $("pfValue").textContent=rs(val);
+  const pl=val-inv;$("pfPL").innerHTML=`<span class="${sign(pl)}">${rs(pl)}</span>`+(inv?` <span style="font-size:.45em" class="${sign(pl)}">${pl>=0?"+":""}${(pl/inv*100).toFixed(1)}%</span>`:"");
+  $("pfDay").innerHTML=dayKnown?`<span class="${sign(dayChg)}">${rs(dayChg)}</span>`:"—";
+  const tot=rows.reduce((a,r)=>a+r.v,0)||1;
+  $("pfAlloc").innerHTML=rows.map((r,k)=>`<span style="width:${(r.v/tot*100).toFixed(2)}%;background:${PALETTE[k%PALETTE.length]}"></span>`).join("");
+  $("pfLegend").innerHTML=rows.map((r,k)=>`<span><i style="background:${PALETTE[k%PALETTE.length]}"></i>${esc(r.h.sym)} ${(r.v/tot*100).toFixed(0)}%</span>`).join("");
+}
+$("pfForm").addEventListener("submit",e=>{e.preventDefault();
+  const sym=$("pfSym").value.trim().toUpperCase().replace(/\.NS$/,""),qty=+$("pfQty").value,buy=+$("pfBuy").value,ltp=+$("pfLtp").value||0;
+  if(!sym||!(qty>0)||!(buy>0)){$("pfMsg").textContent="Enter a symbol, a quantity and a buy price.";return}
+  const ex=PF.find(h=>h.sym===sym);
+  if(ex){const q=ex.qty+qty;ex.buy=(ex.qty*ex.buy+qty*buy)/q;ex.qty=q;if(ltp)ex.ltp=ltp;$("pfMsg").textContent=`Added to your ${sym} holding and averaged the buy price.`}
+  else{PF.push({sym,qty,buy,ltp});$("pfMsg").textContent=`${sym} added.`}
+  savePF();renderPortfolio();e.target.reset();$("pfSym").focus();
+});
+$("pfBody").addEventListener("change",e=>{const i=e.target.dataset.i;if(i==null)return;PF[i].ltp=+e.target.value||0;savePF();renderPortfolio()});
+$("pfBody").addEventListener("click",e=>{const b=e.target.closest("[data-del]");if(!b)return;const h=PF.splice(+b.dataset.del,1)[0];savePF();renderPortfolio();$("pfMsg").textContent=`${h.sym} removed.`});
+$("pfSample").addEventListener("click",()=>{PF=[{sym:"NIFTYBEES",qty:100,buy:250,ltp:0},{sym:"RELIANCE",qty:10,buy:1250,ltp:0},{sym:"TCS",qty:5,buy:3400,ltp:0},{sym:"GOLDBEES",qty:200,buy:70,ltp:0}];savePF();renderPortfolio();$("pfMsg").textContent="Sample holdings loaded. Clear them when you add your own."});
+let clearArmed=false;
+$("pfClear").addEventListener("click",()=>{if(!PF.length)return;if(!clearArmed){clearArmed=true;$("pfClear").textContent="Tap again to delete all";setTimeout(()=>{clearArmed=false;$("pfClear").textContent="Clear all"},4000);return}PF=[];savePF();renderPortfolio();clearArmed=false;$("pfClear").textContent="Clear all";$("pfMsg").textContent="Portfolio cleared."});
+$("pfExport").addEventListener("click",async()=>{const t=JSON.stringify(PF);try{await navigator.clipboard.writeText(t);$("pfMsg").textContent="Backup copied. Paste it into Restore on your other device."}catch{$("pfImportBox").hidden=false;$("pfImportText").value=t;$("pfImportText").select();$("pfMsg").textContent="Copy the text below."}});
+$("pfImportBtn").addEventListener("click",()=>{$("pfImportBox").hidden=!$("pfImportBox").hidden;$("pfImportText").focus()});
+$("pfImportGo").addEventListener("click",()=>{try{const d=JSON.parse($("pfImportText").value);if(!Array.isArray(d))throw 0;PF=d.filter(h=>h&&h.sym&&h.qty>0&&h.buy>0).map(h=>({sym:String(h.sym).toUpperCase(),qty:+h.qty,buy:+h.buy,ltp:+h.ltp||0}));savePF();renderPortfolio();$("pfImportBox").hidden=true;$("pfMsg").textContent=`Restored ${PF.length} holdings.`}catch{$("pfMsg").textContent="That backup text isn't valid. Copy it again and paste the whole thing."}});
+renderPortfolio();
+
+// ---------- calendar ----------
+const EVENTS=[
+ {d:"2026-11-08",c:"Holiday",h:"Muhurat trading",p:"Special Diwali session, 2:20–3:30 PM IST. Samvat 2083 begins."},
+ {d:"2026-11-10",c:"Holiday",h:"Market closed: Diwali Balipratipada",p:"NSE and BSE shut. MCX opens only for the evening session."},
+ {d:"2026-11-12",c:"Data",h:"CPI inflation for October",x:1,p:"Retail inflation shapes the RBI's December decision."},
+ {d:"2026-11-24",c:"Holiday",h:"Market closed: Guru Nanak Jayanti",p:"NSE and BSE shut. MCX opens only for the evening session."},
+ {d:"2026-11-30",c:"Data",h:"GDP growth for July–September",x:1,p:"India's quarterly growth figure."},
+ {d:"2026-12-04",c:"RBI",h:"RBI policy decision",p:"Monetary Policy Committee meets 2–4 Dec. Repo rate announced on the 4th."},
+ {d:"2026-12-07",c:"Data",h:"NSE changes F&O expiry settlement rules",p:"New closing-price method and expiry settlement rules take effect."},
+ {d:"2026-12-09",c:"Global",h:"US Fed rate decision",p:"FOMC meets 8–9 Dec (late night IST). Most economists expect a hike."},
+ {d:"2026-12-25",c:"Holiday",h:"Market closed: Christmas",p:"Last market holiday of 2026."},
+ {d:"2027-01-12",c:"Results",h:"Q3 results season begins",x:1,p:"TCS and Infosys usually report first, around mid-January."},
+ {d:"2027-02-01",c:"Budget",h:"Union Budget 2027–28",x:1,p:"Taxes, spending and capital-gains rules for the year."},
+ {d:"2027-02-05",c:"RBI",h:"RBI policy decision",p:"Monetary Policy Committee meets 3–5 Feb."}
+];
+(function renderCal(){
+  const todayIST=new Date(new Date().toLocaleString("en-US",{timeZone:"Asia/Kolkata"}));todayIST.setHours(0,0,0,0);
+  const up=EVENTS.map(e=>({...e,dt:new Date(e.d+"T00:00:00")})).filter(e=>e.dt>=todayIST).sort((a,b)=>a.dt-b.dt);
+  if(!up.length){$("cal").innerHTML=`<div class="empty">No upcoming events listed. Add some to the EVENTS list in index.html.</div>`;return}
+  let html="",lastM="";
+  up.forEach(e=>{const m=e.dt.toLocaleString("en-IN",{month:"long",year:"numeric"});if(m!==lastM){html+=`<div class="cal-month">${m}</div>`;lastM=m}
+    const days=Math.round((e.dt-todayIST)/864e5),when=days===0?"Today":days===1?"Tomorrow":`in ${days} days`;
+    html+=`<div class="ev${days<=7?" soon":""}"><div class="day">${e.dt.getDate()}<small>${e.dt.toLocaleString("en-IN",{weekday:"short"})} · ${when}</small></div>
+    <div><h3>${esc(e.h)}${e.x?' <span class="meta" style="display:inline">· expected</span>':""}</h3><p>${esc(e.p)}</p></div><span class="tag" data-c="${e.c}">${e.c}</span></div>`});
+  $("cal").innerHTML=html;
+})();
 </script>
 </body>
 </html>
