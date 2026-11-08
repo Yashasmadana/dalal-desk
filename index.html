@@ -323,10 +323,10 @@ footer .logo{font-size:40px}
 <main id="top">
 <section class="cover">
   <div class="wrap">
-    <div class="issue kicker"><span>Samvat 2083 · Issue 01</span><span>Muhurat trading · Sun 8 Nov 2026</span></div>
-    <h1>A rare red <span>Diwali.</span></h1>
-    <p class="deck">Samvat 2083 opened with a small dip, the first red Muhurat close in nine years. It follows the best week since 2021. Fresh US strikes on Iran pushed oil back up, and traders booked some gains.</p>
-    <div class="stats">
+    <div class="issue kicker" id="cvIssue"><span>Samvat 2083 · Issue 01</span><span>Muhurat trading · Sun 8 Nov 2026</span></div>
+    <h1 id="cvH1">A rare red <span>Diwali.</span></h1>
+    <p class="deck" id="cvDeck">Samvat 2083 opened with a small dip, the first red Muhurat close in nine years. It follows the best week since 2021. Fresh US strikes on Iran pushed oil back up, and traders booked some gains.</p>
+    <div class="stats" id="cvStats">
       <div class="stat"><span class="v num">~81,000</span><span class="l">Sensex, marginally lower at Muhurat close</span></div>
       <div class="stat"><span class="v num">&lt;25,000</span><span class="l">Nifty 50, slipped just below after a 7-day rally</span></div>
       <div class="stat"><span class="v num">+8.6%</span><span class="l">Nifty last week, best since 2021</span></div>
@@ -336,12 +336,12 @@ footer .logo{font-size:40px}
 
 <div class="wrap">
   <div class="story">
-    <div>
+    <div id="cvStory">
       <p>Sensex and Nifty opened the Muhurat session higher but slipped to end marginally lower, snapping a seven-day winning streak. Nifty fell back just below 25,000 and India VIX, the market's fear gauge, rose about 6%. Banks dragged, while auto, pharma, defence and energy held up and smallcaps rose about 1%.</p>
       <p>The dip comes after the best week since 2021: Sensex gained about 8.8% and Nifty about 8.6% as oil fell and foreign money returned. That ended a hard Samvat 2082, the worst Samvat year in 15 years, when foreign investors sold a record ₹4.55 trillion.</p>
       <p>A small red Muhurat session says little about the year ahead. Oil, the Iran war and foreign flows will decide whether the rally has legs.</p>
     </div>
-    <aside class="drivers" aria-label="What moved the market">
+    <aside class="drivers" id="cvDrivers" aria-label="What moved the market">
       <span class="kicker">What moved the market</span>
       <div class="driver"><h3>Iran strikes</h3><p>The US confirmed new strikes on Iran's Qeshm island, and more blasts were reported in Hormuz even as Iran reviews de-escalation proposals.</p></div>
       <div class="driver"><h3>Oil ~$98</h3><p>Brent is rising again after its biggest weekly drop since 2020. India imports most of its crude, so pricier oil hurts inflation, the rupee and margins.</p></div>
@@ -604,7 +604,7 @@ footer .logo{font-size:40px}
 
 <footer><div class="wrap">
   <span class="logo">Dalal<em>Desk</em></span>
-  <p>Headlines come from Google News and refresh every 12 hours. The cover story and the war &amp; diplomacy analysis were last updated on 8 Nov 2026 (after Muhurat trading) and are updated by hand.</p>
+  <p>Headlines come from Google News and refresh every 12 hours. The cover is built automatically from those headlines and market prices. The war &amp; diplomacy analysis was last updated by hand on 8 Nov 2026.</p>
   <p>For learning, not investment advice. Returns are not guaranteed, and equity can fall 20–30% in a bad year. Check decisions with a SEBI-registered adviser.</p>
 </div></footer>
 
@@ -757,6 +757,17 @@ fetch("prices.json",{cache:"no-store"}).then(r=>r.ok?r.json():null).then(j=>{
   $("symList").innerHTML=Object.keys(j.stocks||{}).sort().map(s=>`<option value="${esc(s)}">`).join("");
   if(j.updated)$("commodNote").textContent=`Prices as of ${fmt(new Date(j.updated))} IST. International futures prices, may be delayed. ₹ figures use the current USD/INR rate and exclude import duty and GST, so MCX and jeweller prices will be higher.`;
   renderPortfolio();
+}).catch(()=>{});
+
+// cover (built twice a day by scripts/update_cover.py; the text above is the fallback)
+fetch("cover.json",{cache:"no-store"}).then(r=>r.ok?r.json():null).then(c=>{
+  if(!c||!Array.isArray(c.h1))return;
+  if(Array.isArray(c.issue))$("cvIssue").innerHTML=c.issue.map(x=>`<span>${esc(x)}</span>`).join("");
+  $("cvH1").innerHTML=`${esc(c.h1[0])} <span>${esc(c.h1[1])}</span>`;
+  if(c.deck)$("cvDeck").textContent=c.deck;
+  if(Array.isArray(c.stats)&&c.stats.length)$("cvStats").innerHTML=c.stats.map(x=>`<div class="stat"><span class="v num">${esc(x.v)}</span><span class="l">${esc(x.l)}</span></div>`).join("");
+  if(Array.isArray(c.story)&&c.story.length)$("cvStory").innerHTML=c.story.map(x=>`<p>${esc(x)}</p>`).join("");
+  if(Array.isArray(c.drivers)&&c.drivers.length)$("cvDrivers").innerHTML=`<span class="kicker">What moved the market</span>`+c.drivers.map(d=>`<div class="driver"><h3>${esc(d.h)}</h3><p>${d.link?`<a href="${esc(d.link)}" target="_blank" rel="noopener">${esc(d.p)}</a>`:esc(d.p)}</p></div>`).join("");
 }).catch(()=>{});
 
 // ---------- sector heatmap ----------
