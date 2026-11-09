@@ -1,47 +1,47 @@
 {
- "updated": "2026-11-08T23:55+05:30",
+ "updated": "2026-11-09T12:18+05:30",
  "issue": [
-  "Issue 01",
-  "Market close · Sun 8 Nov 2026"
+  "Issue 02",
+  "Market close · Mon 9 Nov 2026"
  ],
  "h1": [
   "Streak",
   "snapped."
  ],
- "deck": "Nifty closed at 24,986 (▼ 0.18%) and Sensex at 80,999 (▼ 0.04%). Over the last five sessions Nifty is up 6.6%. Brent crude is near $98 a barrel and the rupee at 93.89 to the dollar.",
+ "deck": "Nifty closed at 24,921 (▼ 0.44%) and Sensex at 80,746 (▼ 0.35%). Over the last five sessions Nifty is up 6.3%. Brent crude is near $97 a barrel and the rupee at 93.86 to the dollar.",
  "stats": [
   {
-   "v": "80,999",
-   "l": "Sensex ▼ 0.04%, Sun 8 Nov"
+   "v": "80,746",
+   "l": "Sensex ▼ 0.35%, Mon 9 Nov"
   },
   {
-   "v": "24,986",
-   "l": "Nifty 50 ▼ 0.18%"
+   "v": "24,921",
+   "l": "Nifty 50 ▼ 0.44%"
   },
   {
-   "v": "+6.6%",
+   "v": "+6.3%",
    "l": "Nifty over the last 5 sessions"
   }
  ],
  "story": [
-  "Of the 80 large stocks this page tracks, 29 rose and 49 fell. SIEMENS led the gainers (+3.06%), while NHPC fell the most (-1.27%). Bank Nifty ended ▼ 0.40%.",
-  "Across markets: Brent crude near $98 a barrel (-16.4% on the week), the rupee at 93.89 per dollar (stronger on the week), gold near $4,075 an ounce.",
-  "In the headlines: “The eight-year-old bullish trend in the stock market breaks during Diwali, marking the start of Samvat 2083 with a decline” (Loktej English). “Middle East latest: Saudi Aramco building in Riyadh damaged in attempted attack” (The National).",
+  "Of the 80 large stocks this page tracks, 28 rose and 52 fell. SUNPHARMA led the gainers (+2.58%), while INFY fell the most (-2.98%). Bank Nifty ended ▲ 0.25%.",
+  "Across markets: Brent crude near $97 a barrel (-7.7% on the week), the rupee at 93.86 per dollar (stronger on the week), gold near $4,119 an ounce.",
+  "In the headlines: “Sensex and Nifty Slip Amid Mixed Sectoral Trends; Pharma and PSU Banks Lead Gains” (MarketsMojo). “Oil steadies after Trump signals restraint on Iran, Hormuz risks persist” (Arab News).",
   "One session says little about the long run. Oil, the Iran war and foreign flows remain the big swing factors."
  ],
  "drivers": [
   {
-   "h": "Oil ▼16%",
-   "p": "Brent is down 16.4% in a week. India imports most of its crude, so cheaper oil eases inflation, supports the rupee and helps oil users."
+   "h": "Oil ▼8%",
+   "p": "Brent is down 7.7% in a week. India imports most of its crude, so cheaper oil eases inflation, supports the rupee and helps oil users."
   },
   {
-   "h": "Rupee 93.89",
-   "p": "The rupee is at 93.89 per dollar, stronger than a week ago. A firmer rupee eases import costs and tends to steady foreign investors."
+   "h": "Rupee 93.86",
+   "p": "The rupee is at 93.86 per dollar, stronger than a week ago. A firmer rupee eases import costs and tends to steady foreign investors."
   },
   {
    "h": "World",
-   "p": "Middle East latest: Saudi Aramco building in Riyadh damaged in attempted attack (The National)",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNME42cE40Mk9sODA3dHc5LWNWZTRab1JhY1RmcVA0WklGQ0VOUlRUSkhXc0x2eThQM3lCVE43VlpnSWgwVUFSb29RVW5oZnBPMjFzWXkxYXAxSEUtTHpRcmRFR3pBTUxIX1F4clI5clBrTVNodTRPOHl2c3dlREFqdW9ROWx3R2xoS1JLMWVPSXI?oc=5"
+   "p": "Oil steadies after Trump signals restraint on Iran, Hormuz risks persist (Arab News)",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWFUwS2xqbFVsYmFoQk9YLXphRG1QbG93SmdHaWl4NVlCODd6U0hkRGJtN29kZ1ZaRXdCRFhOS05DM2JVU0VqYVM2YWphcWtCR3diaFVvdkswOGowczRjdlZsZkM4NWE2Si1LSzd0dkt6eC10azZZQktNSTg5cnVJT3AyUll0MEZPUVJ1OEVleUZTb1IxSldVZlRLQl85c2R6WHNLQUF1U1FGSmVHNHZmWQ?oc=5"
   }
  ]
 }
