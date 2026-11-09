@@ -1,47 +1,47 @@
 {
- "updated": "2026-11-09T13:37+05:30",
+ "updated": "2026-11-10T04:32+05:30",
  "issue": [
   "Issue 02",
   "Market close · Mon 9 Nov 2026"
  ],
  "h1": [
-  "Streak",
-  "snapped."
+  "Seven up days in a",
+  "row."
  ],
- "deck": "Nifty closed at 24,900 (▼ 0.52%) and Sensex at 80,651 (▼ 0.46%). Over the last five sessions Nifty is up 6.2%. Brent crude is near $97 a barrel and the rupee at 94.08 to the dollar.",
+ "deck": "Nifty closed at 25,045 (▲ 2.07%) and Sensex at 81,107 (▲ 2.27%). Over the last five sessions Nifty is up 8.6%. Brent crude is near $92 a barrel and the rupee at 93.92 to the dollar.",
  "stats": [
   {
-   "v": "80,651",
-   "l": "Sensex ▼ 0.46%, Mon 9 Nov"
+   "v": "81,107",
+   "l": "Sensex ▲ 2.27%, Mon 9 Nov"
   },
   {
-   "v": "24,900",
-   "l": "Nifty 50 ▼ 0.52%"
+   "v": "25,045",
+   "l": "Nifty 50 ▲ 2.07%"
   },
   {
-   "v": "+6.2%",
+   "v": "+8.6%",
    "l": "Nifty over the last 5 sessions"
   }
  ],
  "story": [
-  "Of the 80 large stocks this page tracks, 28 rose and 51 fell. BANKBARODA led the gainers (+2.43%), while NHPC fell the most (-3.02%). Bank Nifty ended ▲ 0.15%.",
-  "Across markets: Brent crude near $97 a barrel (-7.8% on the week), the rupee at 94.08 per dollar (stronger on the week), gold near $4,096 an ounce.",
-  "In the headlines: “Muhurat Trading 2026 Close: Winning Streak Snaps” (Univest). “Indian bonds drift with oil; inflation data in focus” (The Economic Times).",
+  "Of the 80 large stocks this page tracks, 45 rose and 35 fell. PNB led the gainers (+4.44%), while INFY fell the most (-2.31%). Bank Nifty ended ▲ 1.11%.",
+  "Across markets: Brent crude near $92 a barrel (-12.0% on the week), the rupee at 93.92 per dollar (stronger on the week), gold near $4,150 an ounce.",
+  "In the headlines: “Sensex, Nifty end higher in volatile trade as PSU Banks, Pharma stocks lead gains” (Social News XYZ). “Oil slumps 5% as Trump plays down prospect of new US attacks on Iran” (The National).",
   "One session says little about the long run. Oil, the Iran war and foreign flows remain the big swing factors."
  ],
  "drivers": [
   {
-   "h": "Oil ▼8%",
-   "p": "Brent is down 7.8% in a week. India imports most of its crude, so cheaper oil eases inflation, supports the rupee and helps oil users."
+   "h": "Oil ▼12%",
+   "p": "Brent is down 12.0% in a week. India imports most of its crude, so cheaper oil eases inflation, supports the rupee and helps oil users."
   },
   {
-   "h": "Rupee 94.08",
-   "p": "The rupee is at 94.08 per dollar, stronger than a week ago. A firmer rupee eases import costs and tends to steady foreign investors."
+   "h": "Rupee 93.92",
+   "p": "The rupee is at 93.92 per dollar, stronger than a week ago. A firmer rupee eases import costs and tends to steady foreign investors."
   },
   {
    "h": "World",
-   "p": "Indian bonds drift with oil; inflation data in focus (The Economic Times)",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTDFiRmprRTRqTlhVRW0tcC1ZeWJVclM1c2dNbnNZdjQ4NnhMN2JnTU16MVdwNlpIZkhSZEhkVHNYVVFGRHItQzhUWkxkV21wSy15QXpXc1Z3Slg2M25sNmEyWXd5UlRUZHRsYnA4am9RaGZQS3MxdXdpVVJ5T1Y2Znk4dXp3RUJsQXJ5YjNLeUNIZW9ISVJQeXI4Mkc5MHFWbXZFUzB6eVY1UXFiUUFDRFNtMDBXQ0MtcTJ30gHAAUFVX3lxTE5TX1hDdjJGcVQ4Ry16dVFhSEduMlJNUHpmMXkxOW1wUzdqdkVwTG5lUHdOSlZ3SmV1YktNR3h4OXJSZFV2UTJ3aEx1a2VNa2tiQmVBU29jOUZpWDNaMU0wRERVNVNMZmlsbWViNDVTak5kQzYwX01EUnZvS0NKMWh4eGtSbVV1SFV6UWdzMXQ5MFJlSVZBZTZGLW54TEI0Q2Q3Vkx2RnZqdlFlMzJwZWZfWlBWU295QWJQcVNDY2JrXw?oc=5"
+   "p": "Oil slumps 5% as Trump plays down prospect of new US attacks on Iran (The National)",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSVNBbHJtNFU3WWNWSWM5REhpM1dUTEZQVDk0V2cwWjdLYUljUTFERjJuOFRTT1RySnZsSmtSNkJ6aFdCT2gxMjhYMWNJV202T1Z3bWdqdEdJZ1lMdVM2Yjk0cGkzbXJMZVNkM0MxRWFEQ3A3M05LVlUtOVA0M1Buc3VQMjZVRUdDdWx5bU83T2haS3BpSnB2ZkFSbHRhX3FwNWZZamNEcncyY0s2bTNDVFpINWdMTjJ4ZGlLbWdxYnluVVhYdGdUVzZ3?oc=5"
   }
  ]
 }
