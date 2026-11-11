@@ -1,47 +1,47 @@
 {
- "updated": "2026-11-11T02:00+05:30",
+ "updated": "2026-11-11T13:19+05:30",
  "issue": [
-  "Issue 02",
-  "Market close · Mon 9 Nov 2026"
+  "Issue 04",
+  "Market close · Wed 11 Nov 2026"
  ],
  "h1": [
-  "Eight up days in a",
+  "Nine up days in a",
   "row."
  ],
- "deck": "Nifty closed at 25,045 (▲ 0.06%) and Sensex at 81,107 (▲ 0.10%). Over the last five sessions Nifty is up 6.8%. Brent crude is near $92 a barrel and the rupee at 93.92 to the dollar.",
+ "deck": "Nifty closed at 25,292 (▲ 0.99%) and Sensex at 82,101 (▲ 1.23%). Over the last five sessions Nifty is up 6.2%. Brent crude is near $92 a barrel and the rupee at 93.74 to the dollar.",
  "stats": [
   {
-   "v": "81,107",
-   "l": "Sensex ▲ 0.10%, Mon 9 Nov"
+   "v": "82,101",
+   "l": "Sensex ▲ 1.23%, Wed 11 Nov"
   },
   {
-   "v": "25,045",
-   "l": "Nifty 50 ▲ 0.06%"
+   "v": "25,292",
+   "l": "Nifty 50 ▲ 0.99%"
   },
   {
-   "v": "+6.8%",
+   "v": "+6.2%",
    "l": "Nifty over the last 5 sessions"
   }
  ],
  "story": [
-  "Of the 80 large stocks this page tracks, 45 rose and 35 fell. PNB led the gainers (+4.44%), while INFY fell the most (-2.31%). Bank Nifty ended ▲ 1.11%.",
-  "Across markets: Brent crude near $92 a barrel (-11.2% on the week), the rupee at 93.92 per dollar (stronger on the week), gold near $4,040 an ounce.",
-  "In the headlines: “Stock Market Prediction for Tomorrow: 11 Nov Levels, Nifty 25,045” (Univest). “Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days” (LiteFinance).",
+  "Of the 80 large stocks this page tracks, 58 rose and 20 fell. BANKBARODA led the gainers (+5.27%), while NHPC fell the most (-2.39%). Bank Nifty ended ▲ 2.00%.",
+  "Across markets: Brent crude near $92 a barrel (-2.7% on the week), the rupee at 93.74 per dollar (stronger on the week), gold near $4,071 an ounce.",
+  "In the headlines: “Stock Market Today: Sensex Jumps 1,300 Points, Nifty Crosses 25,400 as Foreign Buyers Return” (The United Indian). “Oil Rises as Markets Weigh Iran War De-escalation Hopes, Hormuz Risks” (Business Post Nigeria).",
   "One session says little about the long run. Oil, the Iran war and foreign flows remain the big swing factors."
  ],
  "drivers": [
   {
-   "h": "Oil ▼11%",
-   "p": "Brent is down 11.2% in a week. India imports most of its crude, so cheaper oil eases inflation, supports the rupee and helps oil users."
+   "h": "Oil ▼3%",
+   "p": "Brent is down 2.7% in a week. India imports most of its crude, so cheaper oil eases inflation, supports the rupee and helps oil users."
   },
   {
-   "h": "Rupee 93.92",
-   "p": "The rupee is at 93.92 per dollar, stronger than a week ago. A firmer rupee eases import costs and tends to steady foreign investors."
+   "h": "Rupee 93.74",
+   "p": "The rupee is at 93.74 per dollar, stronger than a week ago. A firmer rupee eases import costs and tends to steady foreign investors."
   },
   {
    "h": "World",
-   "p": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days (LiteFinance)",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
+   "p": "Oil Rises as Markets Weigh Iran War De-escalation Hopes, Hormuz Risks (Business Post Nigeria)",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZnpqTVB5SE5YOG5xc195ZkpxalJqNFUtQnNINzBZMnRfcEFlbU9qcjh1TGUtUUk2TVRJWHJkS3VPcEhsMFFzOFRUNlVGcm9DZzhVYTBvemtqVVhMTTYycHVvVWhqNXZTalU5dms0ZkJBV1hwSl9TTkZVWXlmUGZMZnU3TTlpc1ZYd2FUdmNFcDYxeFZJMERwbGUzeEpTUDgtWGJZ?oc=5"
   }
  ]
 }
