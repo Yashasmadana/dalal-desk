@@ -1,47 +1,47 @@
 {
- "updated": "2026-11-12T13:56+05:30",
+ "updated": "2026-11-13T02:26+05:30",
  "issue": [
   "Issue 05",
   "Market close · Thu 12 Nov 2026"
  ],
  "h1": [
-  "Ten up days in a",
+  "Nine up days in a",
   "row."
  ],
- "deck": "Nifty closed at 25,271 (▲ 0.06%) and Sensex at 81,967 (▲ 0.11%). Over the last five sessions Nifty is up 5.5%. Brent crude is near $93 a barrel and the rupee at 93.98 to the dollar.",
+ "deck": "Nifty closed at 25,299 (▲ 1.02%) and Sensex at 81,911 (▲ 0.99%). Over the last five sessions Nifty is up 6.1%. Brent crude is near $96 a barrel and the rupee at 94.03 to the dollar.",
  "stats": [
   {
-   "v": "81,967",
-   "l": "Sensex ▲ 0.11%, Thu 12 Nov"
+   "v": "81,911",
+   "l": "Sensex ▲ 0.99%, Thu 12 Nov"
   },
   {
-   "v": "25,271",
-   "l": "Nifty 50 ▲ 0.06%"
+   "v": "25,299",
+   "l": "Nifty 50 ▲ 1.02%"
   },
   {
-   "v": "+5.5%",
+   "v": "+6.1%",
    "l": "Nifty over the last 5 sessions"
   }
  ],
  "story": [
-  "Of the 80 large stocks this page tracks, 35 rose and 45 fell. PAYTM led the gainers (+5.70%), while ONGC fell the most (-4.03%). Bank Nifty ended ▲ 1.15%.",
-  "Across markets: Brent crude near $93 a barrel (-5.0% on the week), the rupee at 93.98 per dollar (stronger on the week), gold near $3,964 an ounce.",
-  "In the headlines: “SENSEX off the day’s high, NIFTY trades flat in noon deals; Bajaj Finance, Cupid, Ola Electric among buzzing stocks” (Upstox). “Stock Market Today: Sensex, Nifty 50 Trade Flat; Financials Lead, M&M, Nestle, PowerGrid Top Drags” (NDTV Profit).",
+  "Of the 80 large stocks this page tracks, 34 rose and 46 fell. POLICYBZR led the gainers (+7.59%), while ONGC fell the most (-4.39%). Bank Nifty ended ▲ 1.19%.",
+  "Across markets: Brent crude near $96 a barrel (-2.2% on the week), the rupee at 94.03 per dollar (stronger on the week), gold near $3,883 an ounce.",
+  "In the headlines: “Markets rally for 3rd day in row, Sensex ends above 81,900 on FII inflows & lower oil prices” (MillenniumPost). “Middle East latest: Trump says US no longer needs Iran deal” (The National).",
   "One session says little about the long run. Oil, the Iran war and foreign flows remain the big swing factors."
  ],
  "drivers": [
   {
-   "h": "Oil ▼5%",
-   "p": "Brent is down 5.0% in a week. India imports most of its crude, so cheaper oil eases inflation, supports the rupee and helps oil users."
+   "h": "Oil ▼2%",
+   "p": "Brent is down 2.2% in a week. India imports most of its crude, so cheaper oil eases inflation, supports the rupee and helps oil users."
   },
   {
-   "h": "Rupee 93.98",
-   "p": "The rupee is at 93.98 per dollar, stronger than a week ago. A firmer rupee eases import costs and tends to steady foreign investors."
+   "h": "Rupee 94.03",
+   "p": "The rupee is at 94.03 per dollar, stronger than a week ago. A firmer rupee eases import costs and tends to steady foreign investors."
   },
   {
    "h": "World",
-   "p": "Stock Market Today: Sensex, Nifty 50 Trade Flat; Financials Lead, M&M, Nestle, PowerGrid Top Drags (NDTV Profit)",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSndocmdaMWRnOExRUVp3c2NxNklsVE00c2Ffb1NxTHY2aFF5RDdKZnRVQVhHb01JY0ZvZXhla0dra1pKb0NtVW5keUEyWmJEckJNZUFoVG5WNU0wQmpycTNTeE5DaGpmZ1pMQ081MHVhRXVkb0I0U2VnX3ByR3lJSTN6cHJaQkFiU2Z1RHhLcW11UHhqNTZVbnN3b0RlRmZLZUJQdHlkaFhLUUE5eF9ncURLVExPOHFQVGhGXzNqOGMtS2ZTNzVjVHZXbWxwbFBmNFYyZHRtSEVhbVhJbTBjcEtCcVNkWkp5MVk4ZDdheWpsTE3SAfsBQVVfeXFMUC0zY1JYZUwwMmEtdmVHbzlmbEI3YnRDem1rM1dRMjdNdEQ3Zm5oTzVGZjdaWlpWY1VXQTlGcDJqZkdwWTU2SThUb2lFcWxTRmhXQU5wb2RzbFd4anlxemZYQVFydlpIVWQwWHB1U2FoSV9ueEVWeGE1ekVZOHZ4dDJSTzFBX29Rcm1XLWtEUFUyQURZTng3QUxMdXkwaUxyenBEZVBmdGllU1VSQVZXTW01cnBmUkhiQmczUEJsUW44YzNaY3lfRXI2UTdGUzcwaTYyNC13TUh6NkhyQ0RCYUltLUdWd2NOS0VWclZUa0p6UldrRWNMbWVNMTg?oc=5"
+   "p": "Middle East latest: Trump says US no longer needs Iran deal (The National)",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQUlUTHlPaTZjN0NQZnVxYWVlaGZhV3djV24xWWN1a1JTVk5Qc2FkSEI1Y21JZTF4M042WXRhUy1WVU1uSmlSTkNWRGRCbk1DX1N2MTJTTVRqZl9zNWM5ZkU1MkpvV3o5aWZmSERONTRvRzBJLVh0YmVRTGlKbE9HbG94Qkg?oc=5"
   }
  ]
 }
