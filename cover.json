@@ -1,47 +1,47 @@
 {
- "updated": "2026-11-13T13:39+05:30",
+ "updated": "2026-11-14T02:02+05:30",
  "issue": [
   "Issue 06",
   "Market close · Fri 13 Nov 2026"
  ],
  "h1": [
-  "Streak",
-  "snapped."
+  "Ten up days in a",
+  "row."
  ],
- "deck": "Nifty closed at 25,124 (▼ 0.69%) and Sensex at 81,496 (▼ 0.51%). Over the last five sessions Nifty is up 2.4%. Brent crude is near $96 a barrel and the rupee at 94.24 to the dollar.",
+ "deck": "Nifty closed at 25,144 (▼ 0.61%) and Sensex at 81,592 (▼ 0.39%). Over the last five sessions Nifty is up 5.6%. Brent crude is near $96 a barrel and the rupee at 94.23 to the dollar.",
  "stats": [
   {
-   "v": "81,496",
-   "l": "Sensex ▼ 0.51%, Fri 13 Nov"
+   "v": "81,592",
+   "l": "Sensex ▼ 0.39%, Fri 13 Nov"
   },
   {
-   "v": "25,124",
-   "l": "Nifty 50 ▼ 0.69%"
+   "v": "25,144",
+   "l": "Nifty 50 ▼ 0.61%"
   },
   {
-   "v": "+2.4%",
+   "v": "+5.6%",
    "l": "Nifty over the last 5 sessions"
   }
  ],
  "story": [
-  "Of the 80 large stocks this page tracks, 13 rose and 67 fell. PNB led the gainers (+1.70%), while SHRIRAMFIN fell the most (-3.15%). Bank Nifty ended ▼ 0.88%.",
-  "Across markets: Brent crude near $96 a barrel (-2.5% on the week), the rupee at 94.24 per dollar (little changed on the week), gold near $3,905 an ounce.",
-  "In the headlines: “Sensex recovers over 400 points from day’s low, Nifty climbs above 25,200” (Free Press Kashmir). “Oil-hungry Asia turns back to Mideast in earnest as flows expand” (The Business Times).",
+  "Of the 80 large stocks this page tracks, 15 rose and 65 fell. POLICYBZR led the gainers (+5.23%), while PIDILITIND fell the most (-3.42%). Bank Nifty ended ▼ 0.79%.",
+  "Across markets: Brent crude near $96 a barrel (-2.4% on the week), the rupee at 94.23 per dollar (little changed on the week), gold near $3,879 an ounce.",
+  "In the headlines: “BSE Sensex snaps three-session rally, ends 318.56 points lower” (ad-hoc-news.de). “Global oil supply returns to surplus for first time since start of Iran war, says IEA” (The Guardian).",
   "One session says little about the long run. Oil, the Iran war and foreign flows remain the big swing factors."
  ],
  "drivers": [
   {
-   "h": "Oil ▼3%",
-   "p": "Brent is down 2.5% in a week. India imports most of its crude, so cheaper oil eases inflation, supports the rupee and helps oil users."
+   "h": "Oil ▼2%",
+   "p": "Brent is down 2.4% in a week. India imports most of its crude, so cheaper oil eases inflation, supports the rupee and helps oil users."
   },
   {
-   "h": "Rupee 94.24",
-   "p": "The rupee is at 94.24 per dollar, little changed on the week."
+   "h": "Rupee 94.23",
+   "p": "The rupee is at 94.23 per dollar, little changed on the week."
   },
   {
    "h": "World",
-   "p": "Oil-hungry Asia turns back to Mideast in earnest as flows expand (The Business Times)",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOUFLcEdrS0YydnhGd2E0TUJvMkZUcHdCZzZzbVRDWnpabi1LcjRRQkFrUkNZMm81TFYzRW9kX3MtRWFvZnNOdG5CakRJWjVRQVB5cUpwVEU3TDc1T0ljVks3VFJSMnhhQ3pSQW8wUTRxRG9EX29HQnMtaGhWODJXQUQwd0tZU2lBNURMTmdGTVZRNVZSRWVLRENMRm1LMUdxa2E5ZGpiTGlMTmE5d2lqS1NleGF1NWtkOElxRmhBMXJJbm8?oc=5"
+   "p": "Global oil supply returns to surplus for first time since start of Iran war, says IEA (The Guardian)",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNndNZUdKRnhDVGRkRE85YjZfUG1pUFd5NlVkbjBhbWZaTjZqZlRCU3RmMlBzR1ZjMmJpZi1jX2FvT01wbVc0ZDNaYm9YZUFTZm4wX29QQ3NLN0VpVS1CUjRBVm1GeWlHRk8yb1R4QkMySE5HUjdMUEM3OGVXdU5XM3lORndmX1RwRFdEbkZhalpnVmdONXhJYkR6bUpDZ2xfTXB1MlNuWDNFOGtPSFh0NzF0OWFYSjFBdU1hdVNqQnNSbUdMMi1JZW9vV1UwUQ?oc=5"
   }
  ]
 }
