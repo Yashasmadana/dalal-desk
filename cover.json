@@ -1,47 +1,47 @@
 {
- "updated": "2026-11-13T02:26+05:30",
+ "updated": "2026-11-13T13:39+05:30",
  "issue": [
-  "Issue 05",
-  "Market close · Thu 12 Nov 2026"
+  "Issue 06",
+  "Market close · Fri 13 Nov 2026"
  ],
  "h1": [
-  "Nine up days in a",
-  "row."
+  "Streak",
+  "snapped."
  ],
- "deck": "Nifty closed at 25,299 (▲ 1.02%) and Sensex at 81,911 (▲ 0.99%). Over the last five sessions Nifty is up 6.1%. Brent crude is near $96 a barrel and the rupee at 94.03 to the dollar.",
+ "deck": "Nifty closed at 25,124 (▼ 0.69%) and Sensex at 81,496 (▼ 0.51%). Over the last five sessions Nifty is up 2.4%. Brent crude is near $96 a barrel and the rupee at 94.24 to the dollar.",
  "stats": [
   {
-   "v": "81,911",
-   "l": "Sensex ▲ 0.99%, Thu 12 Nov"
+   "v": "81,496",
+   "l": "Sensex ▼ 0.51%, Fri 13 Nov"
   },
   {
-   "v": "25,299",
-   "l": "Nifty 50 ▲ 1.02%"
+   "v": "25,124",
+   "l": "Nifty 50 ▼ 0.69%"
   },
   {
-   "v": "+6.1%",
+   "v": "+2.4%",
    "l": "Nifty over the last 5 sessions"
   }
  ],
  "story": [
-  "Of the 80 large stocks this page tracks, 34 rose and 46 fell. POLICYBZR led the gainers (+7.59%), while ONGC fell the most (-4.39%). Bank Nifty ended ▲ 1.19%.",
-  "Across markets: Brent crude near $96 a barrel (-2.2% on the week), the rupee at 94.03 per dollar (stronger on the week), gold near $3,883 an ounce.",
-  "In the headlines: “Markets rally for 3rd day in row, Sensex ends above 81,900 on FII inflows & lower oil prices” (MillenniumPost). “Middle East latest: Trump says US no longer needs Iran deal” (The National).",
+  "Of the 80 large stocks this page tracks, 13 rose and 67 fell. PNB led the gainers (+1.70%), while SHRIRAMFIN fell the most (-3.15%). Bank Nifty ended ▼ 0.88%.",
+  "Across markets: Brent crude near $96 a barrel (-2.5% on the week), the rupee at 94.24 per dollar (little changed on the week), gold near $3,905 an ounce.",
+  "In the headlines: “Sensex recovers over 400 points from day’s low, Nifty climbs above 25,200” (Free Press Kashmir). “Oil-hungry Asia turns back to Mideast in earnest as flows expand” (The Business Times).",
   "One session says little about the long run. Oil, the Iran war and foreign flows remain the big swing factors."
  ],
  "drivers": [
   {
-   "h": "Oil ▼2%",
-   "p": "Brent is down 2.2% in a week. India imports most of its crude, so cheaper oil eases inflation, supports the rupee and helps oil users."
+   "h": "Oil ▼3%",
+   "p": "Brent is down 2.5% in a week. India imports most of its crude, so cheaper oil eases inflation, supports the rupee and helps oil users."
   },
   {
-   "h": "Rupee 94.03",
-   "p": "The rupee is at 94.03 per dollar, stronger than a week ago. A firmer rupee eases import costs and tends to steady foreign investors."
+   "h": "Rupee 94.24",
+   "p": "The rupee is at 94.24 per dollar, little changed on the week."
   },
   {
    "h": "World",
-   "p": "Middle East latest: Trump says US no longer needs Iran deal (The National)",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQUlUTHlPaTZjN0NQZnVxYWVlaGZhV3djV24xWWN1a1JTVk5Qc2FkSEI1Y21JZTF4M042WXRhUy1WVU1uSmlSTkNWRGRCbk1DX1N2MTJTTVRqZl9zNWM5ZkU1MkpvV3o5aWZmSERONTRvRzBJLVh0YmVRTGlKbE9HbG94Qkg?oc=5"
+   "p": "Oil-hungry Asia turns back to Mideast in earnest as flows expand (The Business Times)",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOUFLcEdrS0YydnhGd2E0TUJvMkZUcHdCZzZzbVRDWnpabi1LcjRRQkFrUkNZMm81TFYzRW9kX3MtRWFvZnNOdG5CakRJWjVRQVB5cUpwVEU3TDc1T0ljVks3VFJSMnhhQ3pSQW8wUTRxRG9EX29HQnMtaGhWODJXQUQwd0tZU2lBNURMTmdGTVZRNVZSRWVLRENMRm1LMUdxa2E5ZGpiTGlMTmE5d2lqS1NleGF1NWtkOElxRmhBMXJJbm8?oc=5"
   }
  ]
 }
