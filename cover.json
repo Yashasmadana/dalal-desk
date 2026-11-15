@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T13:27+05:30",
+ "updated": "2026-11-16T00:54+05:30",
  "issue": [
   "Issue 06",
   "Market close · Fri 13 Nov 2026"
@@ -8,7 +8,7 @@
   "Streak",
   "snapped."
  ],
- "deck": "Nifty closed at 25,144 (▼ 0.61%) and Sensex at 81,592 (▼ 0.39%). Over the last five sessions Nifty is up 2.5%. Brent crude is near $96 a barrel and the rupee at 94.24 to the dollar.",
+ "deck": "Nifty closed at 25,144 (▼ 0.61%) and Sensex at 81,592 (▼ 0.39%). Over the last five sessions Nifty is up 2.5%. Brent crude is near $96 a barrel and the rupee at 94.23 to the dollar.",
  "stats": [
   {
    "v": "81,592",
@@ -25,8 +25,8 @@
  ],
  "story": [
   "Of the 80 large stocks this page tracks, 16 rose and 63 fell. POLICYBZR led the gainers (+5.23%), while PIDILITIND fell the most (-3.42%). Bank Nifty ended ▼ 0.79%.",
-  "Across markets: Brent crude near $96 a barrel (-2.5% on the week), the rupee at 94.24 per dollar (weaker on the week), gold near $3,886 an ounce.",
-  "In the headlines: “Stock Market Next Week, 5 Big Triggers That Could Decide Sensex And Nifty’s Next Move” (Free Press Journal). “Is Gulf oil rebound at risk as US-Iran war enters uncharted waters?” (Al-Monitor).",
+  "Across markets: Brent crude near $96 a barrel (-2.5% on the week), the rupee at 94.23 per dollar (weaker on the week), gold near $3,886 an ounce.",
+  "In the headlines: “Stock Market Today: All You Need To Know Going Into Trade On Nov 16” (NDTV Profit). “Oil supertanker ‘sinks after hitting mine’ in Strait of Hormuz” (The Telegraph).",
   "One session says little about the long run. Oil, the Iran war and foreign flows remain the big swing factors."
  ],
  "drivers": [
@@ -35,13 +35,13 @@
    "p": "Brent is down 2.5% in a week. India imports most of its crude, so cheaper oil eases inflation, supports the rupee and helps oil users."
   },
   {
-   "h": "Rupee 94.24",
-   "p": "The rupee is at 94.24 per dollar, weaker than a week ago. A weak rupee helps exporters like IT but raises import costs."
+   "h": "Rupee 94.23",
+   "p": "The rupee is at 94.23 per dollar, weaker than a week ago. A weak rupee helps exporters like IT but raises import costs."
   },
   {
    "h": "World",
-   "p": "Is Gulf oil rebound at risk as US-Iran war enters uncharted waters? (Al-Monitor)",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV1FsdFZUeUZhXzl6Y2pITk9oZjdldmhNc0lwM2pqSzZVN0ViQ0tBa0NtbzJ5VkthRjlDM0ZES09DTzAyd1Zsa0hDOWJSaEhZMDcxMkdjNEp6WUowZ3RFQWM0UzZIeFA4eWFSajhsQmhyN2sxQ05XWENlSGJDM1NsdkxYcmJjSXNwNHFtWktyZ1pMLU1nVHRiTEN6YTVUMll3bXBOdA?oc=5"
+   "p": "Oil supertanker ‘sinks after hitting mine’ in Strait of Hormuz (The Telegraph)",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUmpReEpXNS0wU1l5SlZqc3J1ZGQtRUF0WF9XeHgxUURQVk9VeVhtbFB5dy11VUtSaU9pZGktZmNQeEZ1cFE1eTR0NHZJaDhPT2ZZSjg4ay1PVVIwRGV4bDNjOFRWQ29qNzNlZmp1djBhUHdBUnQ3bUh1WVlHUm5iUUpCSzkxdHlUZjdvU0ZOU2JpamhOQnc?oc=5"
   }
  ]
 }
