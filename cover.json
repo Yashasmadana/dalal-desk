@@ -1,47 +1,47 @@
 {
- "updated": "2026-11-16T00:54+05:30",
+ "updated": "2026-11-16T13:34+05:30",
  "issue": [
-  "Issue 06",
-  "Market close · Fri 13 Nov 2026"
+  "Issue 09",
+  "Market close · Mon 16 Nov 2026"
  ],
  "h1": [
-  "Streak",
-  "snapped."
+  "A quiet",
+  "session."
  ],
- "deck": "Nifty closed at 25,144 (▼ 0.61%) and Sensex at 81,592 (▼ 0.39%). Over the last five sessions Nifty is up 2.5%. Brent crude is near $96 a barrel and the rupee at 94.23 to the dollar.",
+ "deck": "Nifty closed at 25,239 (▲ 0.38%) and Sensex at 82,042 (▲ 0.55%). Over the last five sessions Nifty is up 0.8%. Brent crude is near $96 a barrel and the rupee at 94.03 to the dollar.",
  "stats": [
   {
-   "v": "81,592",
-   "l": "Sensex ▼ 0.39%, Fri 13 Nov"
+   "v": "82,042",
+   "l": "Sensex ▲ 0.55%, Mon 16 Nov"
   },
   {
-   "v": "25,144",
-   "l": "Nifty 50 ▼ 0.61%"
+   "v": "25,239",
+   "l": "Nifty 50 ▲ 0.38%"
   },
   {
-   "v": "+2.5%",
+   "v": "+0.8%",
    "l": "Nifty over the last 5 sessions"
   }
  ],
  "story": [
-  "Of the 80 large stocks this page tracks, 16 rose and 63 fell. POLICYBZR led the gainers (+5.23%), while PIDILITIND fell the most (-3.42%). Bank Nifty ended ▼ 0.79%.",
-  "Across markets: Brent crude near $96 a barrel (-2.5% on the week), the rupee at 94.23 per dollar (weaker on the week), gold near $3,886 an ounce.",
-  "In the headlines: “Stock Market Today: All You Need To Know Going Into Trade On Nov 16” (NDTV Profit). “Oil supertanker ‘sinks after hitting mine’ in Strait of Hormuz” (The Telegraph).",
+  "Of the 80 large stocks this page tracks, 35 rose and 44 fell. ITC led the gainers (+3.26%), while TMPV fell the most (-8.56%). Bank Nifty ended ▲ 0.69%.",
+  "Across markets: Brent crude near $96 a barrel (+3.6% on the week), the rupee at 94.03 per dollar (little changed on the week), gold near $3,857 an ounce.",
+  "In the headlines: “Sensex Advances 0.56% Led by FMCG; Realty Sector Drags Amid Mixed Market Breadth” (MarketsMojo). “Middle East latest: USS Theodore Roosevelt aircraft carrier arrives in region” (The National).",
   "One session says little about the long run. Oil, the Iran war and foreign flows remain the big swing factors."
  ],
  "drivers": [
   {
-   "h": "Oil ▼3%",
-   "p": "Brent is down 2.5% in a week. India imports most of its crude, so cheaper oil eases inflation, supports the rupee and helps oil users."
+   "h": "Oil ▲4%",
+   "p": "Brent is up 3.6% in a week. India imports most of its crude, so costlier oil can push up inflation, weigh on the rupee and squeeze margins for oil users."
   },
   {
-   "h": "Rupee 94.23",
-   "p": "The rupee is at 94.23 per dollar, weaker than a week ago. A weak rupee helps exporters like IT but raises import costs."
+   "h": "Rupee 94.03",
+   "p": "The rupee is at 94.03 per dollar, little changed on the week."
   },
   {
    "h": "World",
-   "p": "Oil supertanker ‘sinks after hitting mine’ in Strait of Hormuz (The Telegraph)",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUmpReEpXNS0wU1l5SlZqc3J1ZGQtRUF0WF9XeHgxUURQVk9VeVhtbFB5dy11VUtSaU9pZGktZmNQeEZ1cFE1eTR0NHZJaDhPT2ZZSjg4ay1PVVIwRGV4bDNjOFRWQ29qNzNlZmp1djBhUHdBUnQ3bUh1WVlHUm5iUUpCSzkxdHlUZjdvU0ZOU2JpamhOQnc?oc=5"
+   "p": "Middle East latest: USS Theodore Roosevelt aircraft carrier arrives in region (The National)",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWUhsb2pnODdZNmUya1pnTkFma1Rsb0ozYnVkNGRzd0M0Q0VHT2xuVHhkaFc1NlREdnBiT2d0aW1oTjNRXzVOWkxnRmdzX1pvcmx4dWRIQmJySzFSOG52ZHZ3S0FpWTZOcFllRFRaaTg0ZEFsam8zdHlkME9rdFZGbWdxaVZtMDB6THQ2aGdCaEdLZjRMeTZfNURNZEUyWGoycVBkTg?oc=5"
   }
  ]
 }
