@@ -1,46 +1,46 @@
 {
- "updated": "2026-11-16T13:34+05:30",
+ "updated": "2026-11-17T04:26+05:30",
  "issue": [
   "Issue 09",
   "Market close · Mon 16 Nov 2026"
  ],
  "h1": [
-  "A quiet",
-  "session."
+  "Streak",
+  "snapped."
  ],
- "deck": "Nifty closed at 25,239 (▲ 0.38%) and Sensex at 82,042 (▲ 0.55%). Over the last five sessions Nifty is up 0.8%. Brent crude is near $96 a barrel and the rupee at 94.03 to the dollar.",
+ "deck": "Nifty closed at 25,291 (▲ 0.58%) and Sensex at 82,105 (▲ 0.63%). Over the last five sessions Nifty is up 2.5%. Brent crude is near $92 a barrel and the rupee at 93.91 to the dollar.",
  "stats": [
   {
-   "v": "82,042",
-   "l": "Sensex ▲ 0.55%, Mon 16 Nov"
+   "v": "82,105",
+   "l": "Sensex ▲ 0.63%, Mon 16 Nov"
   },
   {
-   "v": "25,239",
-   "l": "Nifty 50 ▲ 0.38%"
+   "v": "25,291",
+   "l": "Nifty 50 ▲ 0.58%"
   },
   {
-   "v": "+0.8%",
+   "v": "+2.5%",
    "l": "Nifty over the last 5 sessions"
   }
  ],
  "story": [
-  "Of the 80 large stocks this page tracks, 35 rose and 44 fell. ITC led the gainers (+3.26%), while TMPV fell the most (-8.56%). Bank Nifty ended ▲ 0.69%.",
-  "Across markets: Brent crude near $96 a barrel (+3.6% on the week), the rupee at 94.03 per dollar (little changed on the week), gold near $3,857 an ounce.",
-  "In the headlines: “Sensex Advances 0.56% Led by FMCG; Realty Sector Drags Amid Mixed Market Breadth” (MarketsMojo). “Middle East latest: USS Theodore Roosevelt aircraft carrier arrives in region” (The National).",
+  "Of the 80 large stocks this page tracks, 39 rose and 41 fell. TATACONSUM led the gainers (+3.57%), while TMPV fell the most (-8.70%). Bank Nifty ended ▲ 0.89%.",
+  "Across markets: Brent crude near $92 a barrel (-0.8% on the week), the rupee at 93.91 per dollar (little changed on the week), gold near $3,859 an ounce.",
+  "In the headlines: “Middle East latest: Pakistan awaits US response to latest Iran proposals” (The National). “EU blames Russia for delaying Ukraine peace talks to strike power plants before winter” (European Interest).",
   "One session says little about the long run. Oil, the Iran war and foreign flows remain the big swing factors."
  ],
  "drivers": [
   {
-   "h": "Oil ▲4%",
-   "p": "Brent is up 3.6% in a week. India imports most of its crude, so costlier oil can push up inflation, weigh on the rupee and squeeze margins for oil users."
+   "h": "Oil ▼1%",
+   "p": "Brent moved -0.8% over the week, fairly steady. Oil remains a key swing factor for inflation and the rupee."
   },
   {
-   "h": "Rupee 94.03",
-   "p": "The rupee is at 94.03 per dollar, little changed on the week."
+   "h": "Rupee 93.91",
+   "p": "The rupee is at 93.91 per dollar, little changed on the week."
   },
   {
    "h": "World",
-   "p": "Middle East latest: USS Theodore Roosevelt aircraft carrier arrives in region (The National)",
+   "p": "Middle East latest: Pakistan awaits US response to latest Iran proposals (The National)",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWUhsb2pnODdZNmUya1pnTkFma1Rsb0ozYnVkNGRzd0M0Q0VHT2xuVHhkaFc1NlREdnBiT2d0aW1oTjNRXzVOWkxnRmdzX1pvcmx4dWRIQmJySzFSOG52ZHZ3S0FpWTZOcFllRFRaaTg0ZEFsam8zdHlkME9rdFZGbWdxaVZtMDB6THQ2aGdCaEdLZjRMeTZfNURNZEUyWGoycVBkTg?oc=5"
   }
  ]
