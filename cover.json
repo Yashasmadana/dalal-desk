@@ -1,47 +1,47 @@
 {
- "updated": "2026-11-17T04:26+05:30",
+ "updated": "2026-11-17T14:49+05:30",
  "issue": [
-  "Issue 09",
-  "Market close · Mon 16 Nov 2026"
+  "Issue 10",
+  "Market close · Tue 17 Nov 2026"
  ],
  "h1": [
-  "Streak",
-  "snapped."
+  "A good day for",
+  "Dalal Street."
  ],
- "deck": "Nifty closed at 25,291 (▲ 0.58%) and Sensex at 82,105 (▲ 0.63%). Over the last five sessions Nifty is up 2.5%. Brent crude is near $92 a barrel and the rupee at 93.91 to the dollar.",
+ "deck": "Nifty closed at 25,427 (▲ 0.54%) and Sensex at 82,783 (▲ 0.83%). Over the last five sessions Nifty is up 1.5%. Brent crude is near $93 a barrel and the rupee at 93.46 to the dollar.",
  "stats": [
   {
-   "v": "82,105",
-   "l": "Sensex ▲ 0.63%, Mon 16 Nov"
+   "v": "82,783",
+   "l": "Sensex ▲ 0.83%, Tue 17 Nov"
   },
   {
-   "v": "25,291",
-   "l": "Nifty 50 ▲ 0.58%"
+   "v": "25,427",
+   "l": "Nifty 50 ▲ 0.54%"
   },
   {
-   "v": "+2.5%",
+   "v": "+1.5%",
    "l": "Nifty over the last 5 sessions"
   }
  ],
  "story": [
-  "Of the 80 large stocks this page tracks, 39 rose and 41 fell. TATACONSUM led the gainers (+3.57%), while TMPV fell the most (-8.70%). Bank Nifty ended ▲ 0.89%.",
-  "Across markets: Brent crude near $92 a barrel (-0.8% on the week), the rupee at 93.91 per dollar (little changed on the week), gold near $3,859 an ounce.",
-  "In the headlines: “Middle East latest: Pakistan awaits US response to latest Iran proposals” (The National). “EU blames Russia for delaying Ukraine peace talks to strike power plants before winter” (European Interest).",
+  "Of the 80 large stocks this page tracks, 42 rose and 38 fell. PNB led the gainers (+3.46%), while POLICYBZR fell the most (-3.93%). Bank Nifty ended ▲ 1.19%.",
+  "Across markets: Brent crude near $93 a barrel (+1.2% on the week), the rupee at 93.46 per dollar (stronger on the week), gold near $3,872 an ounce.",
+  "In the headlines: “Sensex Advances 0.81% Led by Realty Sector; Tata Motors Tops Large Cap Gains” (MarketsMojo). “Trump-Xi-Putin summit: Can the three find common ground on war, oil, nukes?” (The Economic Times).",
   "One session says little about the long run. Oil, the Iran war and foreign flows remain the big swing factors."
  ],
  "drivers": [
   {
-   "h": "Oil ▼1%",
-   "p": "Brent moved -0.8% over the week, fairly steady. Oil remains a key swing factor for inflation and the rupee."
+   "h": "Oil ▲1%",
+   "p": "Brent moved +1.2% over the week, fairly steady. Oil remains a key swing factor for inflation and the rupee."
   },
   {
-   "h": "Rupee 93.91",
-   "p": "The rupee is at 93.91 per dollar, little changed on the week."
+   "h": "Rupee 93.46",
+   "p": "The rupee is at 93.46 per dollar, stronger than a week ago. A firmer rupee eases import costs and tends to steady foreign investors."
   },
   {
    "h": "World",
-   "p": "Middle East latest: Pakistan awaits US response to latest Iran proposals (The National)",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWUhsb2pnODdZNmUya1pnTkFma1Rsb0ozYnVkNGRzd0M0Q0VHT2xuVHhkaFc1NlREdnBiT2d0aW1oTjNRXzVOWkxnRmdzX1pvcmx4dWRIQmJySzFSOG52ZHZ3S0FpWTZOcFllRFRaaTg0ZEFsam8zdHlkME9rdFZGbWdxaVZtMDB6THQ2aGdCaEdLZjRMeTZfNURNZEUyWGoycVBkTg?oc=5"
+   "p": "Trump-Xi-Putin summit: Can the three find common ground on war, oil, nukes? (The Economic Times)",
+   "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNVGFLY2lacFQxUjJDVUJ6YnNVNnkzTV9CMnVsRWRPQUVCRllnUFFFWEJKR3BXQnUxX2JXbFc1Q19QdUpMajNvWUNia3JrSFg5MWJTWXQ1T2dOMTYyMXMtVmVEcHNjUWZjUWtTbFBSZ3ZyQmVLU2xkRVZwMlBXQjF4ZzVwTm1oTkw3ZTBPYkQ4UVRqWGN3dGlGY0lLb1RZdnZMX2wwSVVkdDNpZkVEcm5IaFZrd0FtV1NDWUxEbzFjQzJRQXhOaWdPUXZQREpab0o1V0NTM040M1ozckRIaE9CdzZ4VlR0LWdaUDBHTml5dWVYRVRpb0FVdlpuUkdwNmZRLUQ1d28yeVpuMGwtSjFSRUEtM2NRTnN2bGhzU1ltZU8xSDM0WWdXaWdWYnZjUzVXaXptV1U4bmZwU2N0ZkRSdkpqcTZoVkpMRG1reHdR0gHOAkFVX3lxTE1UYUtjaVpwVDFSMkNVQnpic1U2eTNNX0IydWxFZE9BRUJGWWdQUUVYQkpHcFdCdTFfYldsVzVDX1B1SkxqM29ZQ2JrcmtIWDkxYlNZdDVPZ04xNjIxcy1WZURwc2NRZmNRa1NsUFJndnJCZUtTbGRFVnAyUFdCMXhnNXBObWhOTDdlME9iRDhRVGpYY3d0aUZjSUtvVFl2dkxfbDBJVWR0M2lmRURybkhoVmt3QW1XU0NZTERvMWNDMlFBeE5pZ09RdlBESlpvSjVXQ1MzTjQzWjNyREhoT0J3NnhWVHQtZ1pQMEdOaXl1ZVhFVGlvQVV2Wm5SR3A2ZlEtRDV3bzJ5Wm4wbC1KMVJFQS0zY1FOc3ZsaHNTWW1lTzFIMzRZZ1dpZ1ZidmNTNVdpem1XVThuZnBTY3RmRFJ2SmpxNmhWSkxEbWt4d1E?oc=5"
   }
  ]
 }
