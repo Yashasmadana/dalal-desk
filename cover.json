@@ -1,47 +1,47 @@
 {
- "updated": "2026-11-18T03:20+05:30",
+ "updated": "2026-11-18T14:08+05:30",
  "issue": [
-  "Issue 10",
-  "Market close · Tue 17 Nov 2026"
+  "Issue 11",
+  "Market close · Wed 18 Nov 2026"
  ],
  "h1": [
-  "A quiet",
-  "session."
+  "Sellers in",
+  "control."
  ],
- "deck": "Nifty closed at 25,387 (▲ 0.38%) and Sensex at 82,532 (▲ 0.52%). Over the last five sessions Nifty is up 1.0%. Brent crude is near $93 a barrel and the rupee at 93.47 to the dollar.",
+ "deck": "Nifty closed at 25,224 (▼ 0.65%) and Sensex at 81,966 (▼ 0.69%). Over the last five sessions Nifty is down 0.1%. Brent crude is near $92 a barrel and the rupee at 93.53 to the dollar.",
  "stats": [
   {
-   "v": "82,532",
-   "l": "Sensex ▲ 0.52%, Tue 17 Nov"
+   "v": "81,966",
+   "l": "Sensex ▼ 0.69%, Wed 18 Nov"
   },
   {
-   "v": "25,387",
-   "l": "Nifty 50 ▲ 0.38%"
+   "v": "25,224",
+   "l": "Nifty 50 ▼ 0.65%"
   },
   {
-   "v": "+1.0%",
+   "v": "-0.1%",
    "l": "Nifty over the last 5 sessions"
   }
  ],
  "story": [
-  "Of the 80 large stocks this page tracks, 42 rose and 38 fell. PNB led the gainers (+3.74%), while POLICYBZR fell the most (-2.69%). Bank Nifty ended ▲ 1.13%.",
-  "Across markets: Brent crude near $93 a barrel (+1.6% on the week), the rupee at 93.47 per dollar (stronger on the week), gold near $3,854 an ounce.",
-  "In the headlines: “Sensex Jumps 750 Points, Nifty Nears 25,500 as Bank Shares Lead the Rally” (theopenpress.in). “Middle East latest: 21 Indians evacuated following strikes on tanker” (The National).",
+  "Of the 80 large stocks this page tracks, 18 rose and 62 fell. CIPLA led the gainers (+2.64%), while TITAN fell the most (-4.31%). Bank Nifty ended ▼ 0.55%.",
+  "Across markets: Brent crude near $92 a barrel (-1.0% on the week), the rupee at 93.53 per dollar (stronger on the week), gold near $3,769 an ounce.",
+  "In the headlines: “Stock Market Today: Sensex falls over 700 points, Nifty below 25,200; IT, FMCG stocks among top losers” (Zee Business). “India's GDP growth likely at 7.6% in Q2: What is driving the economy despite inflationary pressures?” (Firstpost).",
   "One session says little about the long run. Oil, the Iran war and foreign flows remain the big swing factors."
  ],
  "drivers": [
   {
-   "h": "Oil ▲2%",
-   "p": "Brent moved +1.6% over the week, fairly steady. Oil remains a key swing factor for inflation and the rupee."
+   "h": "Oil ▼1%",
+   "p": "Brent moved -1.0% over the week, fairly steady. Oil remains a key swing factor for inflation and the rupee."
   },
   {
-   "h": "Rupee 93.47",
-   "p": "The rupee is at 93.47 per dollar, stronger than a week ago. A firmer rupee eases import costs and tends to steady foreign investors."
+   "h": "Rupee 93.53",
+   "p": "The rupee is at 93.53 per dollar, stronger than a week ago. A firmer rupee eases import costs and tends to steady foreign investors."
   },
   {
    "h": "World",
-   "p": "Middle East latest: 21 Indians evacuated following strikes on tanker (The National)",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS1lqMnhfdVg2OGtJamZFSnh3Uzc2YzhteVFUemRxWTNsdjl6cU1nbDJyN2xJTUR4dGsyTEdDVC1YOXYtR0VjemJDSktyTlZFcTJBazM3cGJjRTVSWE8wVHJTaVkxTks2TjhSam95R2lWSWpySW1RclEtcmRQV1V6SVdHNUdkUEhUTGRkZngwcjExdjUwYXBGc3hQNG9KUQ?oc=5"
+   "p": "India's GDP growth likely at 7.6% in Q2: What is driving the economy despite inflationary pressures? (Firstpost)",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOV1o3UkxXVlVEcW1rSll4czlObXRNSnNxdzVIeGhXRzR0X0FFRjNDNmJMcThXekNET0ZwNXhWRnhNN20zUzFSel80ME1YbUIwc0dBR0NJZWE4Rmx4SGt2SDBfa1otY25sVUVFaWxfYkpBWHVvUngxT2ZVcm1DcUllOUwzV2hhcUhXOFRBVkhuR2N3aXp2R3JfVnEzN05KREhPWjNKdXNSY2Izd1ZjQ0xrSE1QSFpCZjVVMDBiMzlROGR1SkNuVWs4SmtGd1IwQnJsaldNWGtJc0tJeDFBWFHSAeMBQVVfeXFMUGszd3padVNQZTJ4Zk42VEdTcDFmSEQ2ZVpmNmp4M1kxdnE3UWhzeG9lb2pJNXZDRFE1Vlp4RmxOa1k3aGNNVENETXpKQWFGVHBvQS1KR2VCbU5CNFp0dHFOM3k5TmFvR2JyUFJyQ0RTYi1KQmpEajEyUEs2dEhmX2pTZTJCZFNCN192a3kyZmhkX1hOUXpsVmZlQ20zZEhacjNVMW9lNy1zTW9yUkxNMkJtMWhlS2N4a2JSMlRhV004S2FWRU9xUGd0dmhGSndNRl9kemNZdi1yTDRRYmNJY0NPUGc?oc=5"
   }
  ]
 }
