@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T14:08+05:30",
+ "updated": "2026-11-19T02:58+05:30",
  "issue": [
   "Issue 11",
   "Market close · Wed 18 Nov 2026"
@@ -8,40 +8,40 @@
   "Sellers in",
   "control."
  ],
- "deck": "Nifty closed at 25,224 (▼ 0.65%) and Sensex at 81,966 (▼ 0.69%). Over the last five sessions Nifty is down 0.1%. Brent crude is near $92 a barrel and the rupee at 93.53 to the dollar.",
+ "deck": "Nifty closed at 25,228 (▼ 0.63%) and Sensex at 82,032 (▼ 0.61%). Over the last five sessions Nifty is up 1.4%. Brent crude is near $89 a barrel and the rupee at 93.46 to the dollar.",
  "stats": [
   {
-   "v": "81,966",
-   "l": "Sensex ▼ 0.69%, Wed 18 Nov"
+   "v": "82,032",
+   "l": "Sensex ▼ 0.61%, Wed 18 Nov"
   },
   {
-   "v": "25,224",
-   "l": "Nifty 50 ▼ 0.65%"
+   "v": "25,228",
+   "l": "Nifty 50 ▼ 0.63%"
   },
   {
-   "v": "-0.1%",
+   "v": "+1.4%",
    "l": "Nifty over the last 5 sessions"
   }
  ],
  "story": [
-  "Of the 80 large stocks this page tracks, 18 rose and 62 fell. CIPLA led the gainers (+2.64%), while TITAN fell the most (-4.31%). Bank Nifty ended ▼ 0.55%.",
-  "Across markets: Brent crude near $92 a barrel (-1.0% on the week), the rupee at 93.53 per dollar (stronger on the week), gold near $3,769 an ounce.",
-  "In the headlines: “Stock Market Today: Sensex falls over 700 points, Nifty below 25,200; IT, FMCG stocks among top losers” (Zee Business). “India's GDP growth likely at 7.6% in Q2: What is driving the economy despite inflationary pressures?” (Firstpost).",
+  "Of the 80 large stocks this page tracks, 21 rose and 59 fell. SBIN led the gainers (+2.38%), while TITAN fell the most (-5.30%). Bank Nifty ended ▼ 0.38%.",
+  "Across markets: Brent crude near $89 a barrel (-4.0% on the week), the rupee at 93.46 per dollar (stronger on the week), gold near $3,729 an ounce.",
+  "In the headlines: “Stock Market Prediction for Tomorrow: 19 Nov Levels, Nifty 25,228” (Univest). “Latest news on the war in the Middle East. Tehran: three oil tankers ablaze after hitting mines in the Strait of Hormuz” (Il Sole 24 ORE).",
   "One session says little about the long run. Oil, the Iran war and foreign flows remain the big swing factors."
  ],
  "drivers": [
   {
-   "h": "Oil ▼1%",
-   "p": "Brent moved -1.0% over the week, fairly steady. Oil remains a key swing factor for inflation and the rupee."
+   "h": "Oil ▼4%",
+   "p": "Brent is down 4.0% in a week. India imports most of its crude, so cheaper oil eases inflation, supports the rupee and helps oil users."
   },
   {
-   "h": "Rupee 93.53",
-   "p": "The rupee is at 93.53 per dollar, stronger than a week ago. A firmer rupee eases import costs and tends to steady foreign investors."
+   "h": "Rupee 93.46",
+   "p": "The rupee is at 93.46 per dollar, stronger than a week ago. A firmer rupee eases import costs and tends to steady foreign investors."
   },
   {
    "h": "World",
-   "p": "India's GDP growth likely at 7.6% in Q2: What is driving the economy despite inflationary pressures? (Firstpost)",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOV1o3UkxXVlVEcW1rSll4czlObXRNSnNxdzVIeGhXRzR0X0FFRjNDNmJMcThXekNET0ZwNXhWRnhNN20zUzFSel80ME1YbUIwc0dBR0NJZWE4Rmx4SGt2SDBfa1otY25sVUVFaWxfYkpBWHVvUngxT2ZVcm1DcUllOUwzV2hhcUhXOFRBVkhuR2N3aXp2R3JfVnEzN05KREhPWjNKdXNSY2Izd1ZjQ0xrSE1QSFpCZjVVMDBiMzlROGR1SkNuVWs4SmtGd1IwQnJsaldNWGtJc0tJeDFBWFHSAeMBQVVfeXFMUGszd3padVNQZTJ4Zk42VEdTcDFmSEQ2ZVpmNmp4M1kxdnE3UWhzeG9lb2pJNXZDRFE1Vlp4RmxOa1k3aGNNVENETXpKQWFGVHBvQS1KR2VCbU5CNFp0dHFOM3k5TmFvR2JyUFJyQ0RTYi1KQmpEajEyUEs2dEhmX2pTZTJCZFNCN192a3kyZmhkX1hOUXpsVmZlQ20zZEhacjNVMW9lNy1zTW9yUkxNMkJtMWhlS2N4a2JSMlRhV004S2FWRU9xUGd0dmhGSndNRl9kemNZdi1yTDRRYmNJY0NPUGc?oc=5"
+   "p": "Latest news on the war in the Middle East. Tehran: three oil tankers ablaze after hitting mines in the Strait of Hormuz (Il Sole 24 ORE)",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMGRsRDJlcGR5MzRLOElRUXBCcXY5SFFTS0M5YUp0RkhmUjJtSjN2Q1liaW92dUkyWS03T0Jac3k2c2dGNy1BRmM1QXVoTjBCWDFDRjRoQjFrU0NuV01iRk1MNFpRUmJKQnQ2TG1HWTdsVXN6RG0xZ2F0YjhoOFd4SnZjcWxqOHIyX202Mlp1X0lFdw?oc=5"
   }
  ]
 }
