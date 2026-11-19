@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T14:24+05:30",
+ "updated": "2026-11-20T03:11+05:30",
  "issue": [
   "Issue 12",
   "Market close · Thu 19 Nov 2026"
@@ -8,40 +8,40 @@
   "A good day for",
   "Dalal Street."
  ],
- "deck": "Nifty closed at 25,452 (▲ 0.89%) and Sensex at 82,701 (▲ 0.82%). Over the last five sessions Nifty is up 0.6%. Brent crude is near $90 a barrel and the rupee at 93.27 to the dollar.",
+ "deck": "Nifty closed at 25,514 (▲ 1.14%) and Sensex at 83,022 (▲ 1.21%). Over the last five sessions Nifty is down 0.1%. Brent crude is near $90 a barrel and the rupee at 93.28 to the dollar.",
  "stats": [
   {
-   "v": "82,701",
-   "l": "Sensex ▲ 0.82%, Thu 19 Nov"
+   "v": "83,022",
+   "l": "Sensex ▲ 1.21%, Thu 19 Nov"
   },
   {
-   "v": "25,452",
-   "l": "Nifty 50 ▲ 0.89%"
+   "v": "25,514",
+   "l": "Nifty 50 ▲ 1.14%"
   },
   {
-   "v": "+0.6%",
+   "v": "-0.1%",
    "l": "Nifty over the last 5 sessions"
   }
  ],
  "story": [
-  "Of the 80 large stocks this page tracks, 70 rose and 10 fell. MARUTI led the gainers (+6.28%), while PAYTM fell the most (-7.33%). Bank Nifty ended ▲ 1.42%.",
-  "Across markets: Brent crude near $90 a barrel (-6.5% on the week), the rupee at 93.27 per dollar (stronger on the week), gold near $3,733 an ounce.",
-  "In the headlines: “Tata Tech jumps over 9% as FY30 roadmap targets $1.3 billion revenue” (Business Standard). “Energy-security response to Iran war could cut oil demand by 4% by 2035, IEA says” (The Jerusalem Post).",
+  "Of the 80 large stocks this page tracks, 69 rose and 11 fell. MARUTI led the gainers (+7.58%), while PAYTM fell the most (-8.68%). Bank Nifty ended ▲ 1.65%.",
+  "Across markets: Brent crude near $90 a barrel (-5.9% on the week), the rupee at 93.28 per dollar (stronger on the week), gold near $3,634 an ounce.",
+  "In the headlines: “Nifty tops 25,500 for first time since February; Sensex reclaims 83K” (Business Standard). “US Sour Crude’s War Premium Vanishes as Supply Surges” (Livemint).",
   "One session says little about the long run. Oil, the Iran war and foreign flows remain the big swing factors."
  ],
  "drivers": [
   {
    "h": "Oil ▼6%",
-   "p": "Brent is down 6.5% in a week. India imports most of its crude, so cheaper oil eases inflation, supports the rupee and helps oil users."
+   "p": "Brent is down 5.9% in a week. India imports most of its crude, so cheaper oil eases inflation, supports the rupee and helps oil users."
   },
   {
-   "h": "Rupee 93.27",
-   "p": "The rupee is at 93.27 per dollar, stronger than a week ago. A firmer rupee eases import costs and tends to steady foreign investors."
+   "h": "Rupee 93.28",
+   "p": "The rupee is at 93.28 per dollar, stronger than a week ago. A firmer rupee eases import costs and tends to steady foreign investors."
   },
   {
    "h": "World",
-   "p": "Energy-security response to Iran war could cut oil demand by 4% by 2035, IEA says (The Jerusalem Post)",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53UzVIWkdLUUpFaFJyMTk5N0JweUJfVVAtSG9jWl9Va3JCeXRSbXY1dEVFX1d6VExvTTY4a2hTM1QyOUxENVhWTWZMZFg0NGpaZ3RDdVdZZktEc1hDRWF0MWY3bElTbGp2a3RxSQ?oc=5"
+   "p": "US Sour Crude’s War Premium Vanishes as Supply Surges (Livemint)",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQXFiaVdnTXlVSHdUMFNjUGROb0ZsS0tGbzdLaGlWM0lOTHp5MGlfd0RjMlFPWm1lWjNFME5RbVZmYVNYVEVfMTBJVm1qMjlrOGRzNGp3ajBXRDVLazB0YmJXS0lEeUtvS0J4SUo0RXM0YjdJS0dyRk1iOTh5Ym02SWpkQ1V0VHozaTEwQ3NRZDZreDhPUUp2Sm9oekJ4QUpfYXBXQm96dlPSAa4BQVVfeXFMUGIyc3U0bm5ub29LMHZFVElhQlFkZ1RYTVdVZ3FQU3hFRG8tSnBZUnpWSkxrMHlMSFRXNzJuM1ZOSV9BeEx1SF9yb3VFbjdMMnRTLWZ5dlE0UHBSWDlnZWpWZHdyclVnNjgxSGprc1hmc3htaGpfZkc2UV9hcFNNbEFzR0lSMUp0bkFmWTRZLV9uLUlOdGx6Ny1sdDVEM0V5WjN4UkxBN2Jic24wMkx3?oc=5"
   }
  ]
 }
