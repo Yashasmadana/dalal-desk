@@ -1,47 +1,47 @@
 {
- "updated": "2026-11-20T03:11+05:30",
+ "updated": "2026-11-20T14:10+05:30",
  "issue": [
-  "Issue 12",
-  "Market close · Thu 19 Nov 2026"
+  "Issue 13",
+  "Market close · Fri 20 Nov 2026"
  ],
  "h1": [
   "A good day for",
   "Dalal Street."
  ],
- "deck": "Nifty closed at 25,514 (▲ 1.14%) and Sensex at 83,022 (▲ 1.21%). Over the last five sessions Nifty is down 0.1%. Brent crude is near $90 a barrel and the rupee at 93.28 to the dollar.",
+ "deck": "Nifty closed at 25,763 (▲ 0.98%) and Sensex at 83,775 (▲ 0.91%). Over the last five sessions Nifty is up 2.5%. Brent crude is near $89 a barrel and the rupee at 92.77 to the dollar.",
  "stats": [
   {
-   "v": "83,022",
-   "l": "Sensex ▲ 1.21%, Thu 19 Nov"
+   "v": "83,775",
+   "l": "Sensex ▲ 0.91%, Fri 20 Nov"
   },
   {
-   "v": "25,514",
-   "l": "Nifty 50 ▲ 1.14%"
+   "v": "25,763",
+   "l": "Nifty 50 ▲ 0.98%"
   },
   {
-   "v": "-0.1%",
+   "v": "+2.5%",
    "l": "Nifty over the last 5 sessions"
   }
  ],
  "story": [
-  "Of the 80 large stocks this page tracks, 69 rose and 11 fell. MARUTI led the gainers (+7.58%), while PAYTM fell the most (-8.68%). Bank Nifty ended ▲ 1.65%.",
-  "Across markets: Brent crude near $90 a barrel (-5.9% on the week), the rupee at 93.28 per dollar (stronger on the week), gold near $3,634 an ounce.",
-  "In the headlines: “Nifty tops 25,500 for first time since February; Sensex reclaims 83K” (Business Standard). “US Sour Crude’s War Premium Vanishes as Supply Surges” (Livemint).",
+  "Of the 80 large stocks this page tracks, 55 rose and 24 fell. INDUSINDBK led the gainers (+7.65%), while VEDL fell the most (-2.84%). Bank Nifty ended ▲ 2.27%.",
+  "Across markets: Brent crude near $89 a barrel (-7.2% on the week), the rupee at 92.77 per dollar (stronger on the week), gold near $3,590 an ounce.",
+  "In the headlines: “Sensex zooms 1790 pts in 2 days; ₹6.9 trn added to m-cap: 5 key reasons” (Business Standard). “Brent seen at $75-85 in 2027 as oil surplus builds: Mirae Asset Sharekhan” (Business Standard).",
   "One session says little about the long run. Oil, the Iran war and foreign flows remain the big swing factors."
  ],
  "drivers": [
   {
-   "h": "Oil ▼6%",
-   "p": "Brent is down 5.9% in a week. India imports most of its crude, so cheaper oil eases inflation, supports the rupee and helps oil users."
+   "h": "Oil ▼7%",
+   "p": "Brent is down 7.2% in a week. India imports most of its crude, so cheaper oil eases inflation, supports the rupee and helps oil users."
   },
   {
-   "h": "Rupee 93.28",
-   "p": "The rupee is at 93.28 per dollar, stronger than a week ago. A firmer rupee eases import costs and tends to steady foreign investors."
+   "h": "Rupee 92.77",
+   "p": "The rupee is at 92.77 per dollar, stronger than a week ago. A firmer rupee eases import costs and tends to steady foreign investors."
   },
   {
    "h": "World",
-   "p": "US Sour Crude’s War Premium Vanishes as Supply Surges (Livemint)",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQXFiaVdnTXlVSHdUMFNjUGROb0ZsS0tGbzdLaGlWM0lOTHp5MGlfd0RjMlFPWm1lWjNFME5RbVZmYVNYVEVfMTBJVm1qMjlrOGRzNGp3ajBXRDVLazB0YmJXS0lEeUtvS0J4SUo0RXM0YjdJS0dyRk1iOTh5Ym02SWpkQ1V0VHozaTEwQ3NRZDZreDhPUUp2Sm9oekJ4QUpfYXBXQm96dlPSAa4BQVVfeXFMUGIyc3U0bm5ub29LMHZFVElhQlFkZ1RYTVdVZ3FQU3hFRG8tSnBZUnpWSkxrMHlMSFRXNzJuM1ZOSV9BeEx1SF9yb3VFbjdMMnRTLWZ5dlE0UHBSWDlnZWpWZHdyclVnNjgxSGprc1hmc3htaGpfZkc2UV9hcFNNbEFzR0lSMUp0bkFmWTRZLV9uLUlOdGx6Ny1sdDVEM0V5WjN4UkxBN2Jic24wMkx3?oc=5"
+   "p": "Brent seen at $75-85 in 2027 as oil surplus builds: Mirae Asset Sharekhan (Business Standard)",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQLVFhcjhUYmJIeXVmT2NUV3l3WUd0dHFwTU1mWWJiYmdrM0J3WlV4OUxsZ2RGS215Ylo2ZGNlWTlROWVjMWZnWTROa2pKSUQxSUpHVmZKM2dxdF9HWExMR3VTYVJRMC12eGF1YUlWLXBkMWt3czdndHhtSl9QLW9lRllWTl9yeTdyZFBLcS1LZmlZZkxiOGxVSTN3REk5czlLUG5sZW1fZUJYZ3Qtb0doLUc1MGxIQ1FUdXVVRjhTLVF1dlRSY19nRHNTanBXaE13STJaMtIB2gFBVV95cUxPVlJyT3lsMkZnWThHVlVHN0VVcnhEa2VhOENVM3JOamd3U29WUjcwUHhWQ3B3NkhhMC1jbWU4ZTI1TmRfR3ZwUGlmS0ZnM3FtS2ZFUjhBdUJHaWFvZGtZeTVKTEpWbjRhWF9uUzB4c19UdC10cWZkcXpiQzlxZTU1bEZzZWdqOHl0eWZaSXN3aHV4SFVYMUdhWVBpc29VTHowVUNpOGRsTkpjU3NhRjBsZFp4LWZ0d09RZTZRSm5KN01QSG9nM3lZbkNGSW5kRmNIYWFhNGhldmhWdw?oc=5"
   }
  ]
 }
