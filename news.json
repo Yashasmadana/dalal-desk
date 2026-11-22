@@ -1,95 +1,123 @@
 {
- "updated": "2026-11-22T01:39+05:30",
+ "updated": "2026-11-23T01:54+05:30",
  "pulse": {
-  "t": "Nifty, Sensex extend gains for 4th week amid strong foreign inflows",
-  "s": "Social News XYZ",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdGtBQmtzNzZXTV9LemhqeVhzMFhTYl92dzV2T0tEWHhTaXJRQmdXV0NHYXNtb1FXTlhMLWx6X0J2MUVYNXc5RXpXSjN1MXRwVzI0ZWgzaHZxNDJYd1VROHJldzJZNGJ2VXZvS3F2T0pLVk81eHNaWXdGbDhtQ0FGOUZieXRrakxpVTF1bXoxRVY0OV9DRjRMQnVyU1RXTmhfV3d3QkgyNHjSAagBQVVfeXFMT3RrQUJrczc2V01fS3poanlYczBYU2Jfdnc1dk9LRFh4U2lyUUJnV1dDR2FzbW9RV05YTC1sel9CdjFFWDV3OUV6V0ozdTF0cFcyNGVoM2h2cTQyWHdVUThyZXcyWTRidlV2b0txdk9KS1ZPNXhzWll3Rmw4bUNBRjlGYnl0a2pMaVUxdW16MUVWNDlfQ0Y0TEJ1clNUV05oX1d3d0JIMjR4?oc=5",
-  "ts": "2026-11-21T23:57:40+05:30"
+  "t": "Bulls need FII fuel to keep running strong",
+  "s": "The Hans India",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN3dFRjZWeEZMM21STWNIT2ZZTUc0QUlTVUhVMzBDN0pGbDFRUk5CeGxDd2FhV3NvR0cxcTlTbkpPVzF6ajBnc3FnR2N1dm9vekRqNVBpVHA4cG1TNjJIMUVTMEplTUlyd0ZwVm1hWWp2SUVRc2h2UVFvSS1NSWVKbmw0LTVxNHlTekx0bjF2enhSSEgwNTZ2V2dmcVJROFZVdUc1bWZ30gGrAUFVX3lxTFBlNklRbEI0eHVGTXA1VVFGanFwb1Y2c2lRZVNiWnNZRlFKNG5OQi03dFVuVjVZZXVCZ2RUVjFBaXZwMTQzNnNIaXM1Z3YyQVlHRkgyYkMtUkpQRHBIbkNMYnpTNDFXZzlxdHZjX0tmX2xsWGJaclU3ZWN2Qnp1MGNMTGd6dzRTMHVGbUNGb2ZrT0p5QV9XM2JFUnN2LVRsTDJoVGgwMF93UHc3aw?oc=5",
+  "ts": "2026-11-23T01:27:28+05:30"
  },
  "news": [
   {
    "c": "Markets",
-   "t": "Index Outlook: Momentum holds firm",
-   "s": "BusinessLine",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV1A3ck1mbGlPczFEZ0VweXZtU1UwTkxMNXk2Ynh0TW5oV2g0ZGVxRWRpbjRZZDdFV0hRcVhBNnVRV0Zwem5yZU5sWFNwMmVEUV9jTmJVSjIxTm9yaVF0Z3JrR1R6c1dYdzRNRUh5anh3SFBfOVpKNWFMSG5TUVZMaVRDVERBUFZXRUs0M2ZHVVo2Y1UtT2w2NlhBQmhIOHBGRFRJWF9SSE9fWV8wbVdXT0xFZFB2VnVjd3NR0gHCAUFVX3lxTFBkclhMb205X1hueHVFLU1FVTlEbE5DNmEwejJUWkUycEVqdU5LSjVSTm1SeEprbWVYc3hCMHJ2Y2haZGNBTXpQa0pFZmgzR1hJRTVYRV9CUy1xb2lXeHhraVZva3ZuVF9TV0dTbDlGZl9TenpSVXA1YXl6TnIydy1FNEpVczA3WVhfN0EtbHRleXhqcjV3aV9DWEVQVThkbzMwLTRxSUh4ZXU0U3JweVBSY29OdDJyM3BwSDhXcC1jU3R3?oc=5",
-   "ts": "2026-11-21T21:50:36+05:30"
+   "t": "Bulls need FII fuel to keep running strong",
+   "s": "The Hans India",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN3dFRjZWeEZMM21STWNIT2ZZTUc0QUlTVUhVMzBDN0pGbDFRUk5CeGxDd2FhV3NvR0cxcTlTbkpPVzF6ajBnc3FnR2N1dm9vekRqNVBpVHA4cG1TNjJIMUVTMEplTUlyd0ZwVm1hWWp2SUVRc2h2UVFvSS1NSWVKbmw0LTVxNHlTekx0bjF2enhSSEgwNTZ2V2dmcVJROFZVdUc1bWZ30gGrAUFVX3lxTFBlNklRbEI0eHVGTXA1VVFGanFwb1Y2c2lRZVNiWnNZRlFKNG5OQi03dFVuVjVZZXVCZ2RUVjFBaXZwMTQzNnNIaXM1Z3YyQVlHRkgyYkMtUkpQRHBIbkNMYnpTNDFXZzlxdHZjX0tmX2xsWGJaclU3ZWN2Qnp1MGNMTGd6dzRTMHVGbUNGb2ZrT0p5QV9XM2JFUnN2LVRsTDJoVGgwMF93UHc3aw?oc=5",
+   "ts": "2026-11-23T01:27:28+05:30"
   },
   {
    "c": "Markets",
-   "t": "Markets snap 2-day rally; Sensex drops amid profit booking, US Fed rate hike speculations",
-   "s": "DD News",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaEdTZ09nS0FQbFZLY2RWWkJvVW1lR3ZMT2RNeUxHMVhCZjlGbkVFeHdld2NfaXhTV0Jub1BSZmg5VDJaQm1aV1VCanhSTUEyMy1NZlpCQXJoME1iS2RoWEdJUUZ2ODRVU3YzZUxpNkhXWDU1N195eTY3M3VMNWMzd25TcDVPRXpJYldSVmZvclhDU0U1cVJaZTRkTzMzUmlSUnM0cGZ2VTNOM1Jld0VCQUZNOA?oc=5",
-   "ts": "2026-11-21T21:49:52+05:30"
-  },
-  {
-   "c": "Markets",
-   "t": "Stock markets fall in early trade after two-day rally",
-   "s": "DD News",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMC1hYjlmUGFzeUphNkYyOEhoNENDZXU1eFBqd1JVU0hLQ3JRaWdTbkU5RjJzVjIzRzVOWWtEQmx2NWpTc1gzNHdvcGdpUWRXSk5VRTAydXVzcUhfVm8tcEh4TmRxYWpYemVONkQwaTlCckZLVjhRTm8wdi0tNkVSZFhLc2VwZw?oc=5",
-   "ts": "2026-11-21T21:46:26+05:30"
-  },
-  {
-   "c": "Markets",
-   "t": "BSE SENSEX Today: Sensex Falls to 81,592.45 as Nifty Ends at 25,144, Snapping a Winning Streak",
+   "t": "BSE SENSEX Surges to 83,021.75 as Autos and Banks Lift Nifty",
    "s": "BBN Times",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcWhfcXNmcy03Y2JVZVlqS2wzTVFUU2NnTWJmbVJLQkZBbHhoTlkxb0x4X1R4MGNZNk5OM25YYW1NN0JWQ25FclJCX1pUaEVadE9XaFdiVmM1eFZvSTM0N0lCNzFDRkNSQnF3MmJDc3I2OXNOTFB0N19wbXdMeUdNYzZZZGlMQV9NUk9QRG41MjZ5ZkMzY1hLWkt5ODJjTDlMQW5RbEF4MXRtUmtxUzBTVGNjRDVFVWxZX0VwRENNT0FqQXo1Z2c?oc=5",
-   "ts": "2026-11-21T21:40:29+05:30"
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNelNpMUNxWDJwWkU2LWI0UkZVSC1PdXJINGYtQ0xreU9qek9vOWFrR1RpNnV2dEl6Q0xobW9FR2Zmdm0wZzFQb2hCNGxHMEJCOElsbFJNWnpZYU9tMW44dTlabzhGV1RXdFFGdnVncko1YnRRM3FaSjlTSHlsX01hSlRkMTN1djNQS2p6RktkcnNCcHVNNEtBRDBZNTJUeGNaVlE?oc=5",
+   "ts": "2026-11-22T22:31:59+05:30"
   },
   {
    "c": "Markets",
-   "t": "Indian Stock Market Extends Four-Week Rally as Sensex and Nifty Hit Nine-Month Highs",
-   "s": "www.nationpathindia.com",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSGdMcjdYSU1kUTB2RjMyelAtcmVSbzZkU19Scy1tWmdhTmJJcjY2X1ROa1pZWE9FS3JHa0FEU0U1OFM5RWx4VnpPZlliQ3B0c0FRcmkyYXZIbXhyR05jbzRZVU9LdWZSNzJoY25tNElaVVE1WlVNMDZUUkszUTJ2eHdhWnB6SGctLUJpTWZGQ21BcnFlSU9ORWZvdnNsNzNySExTS3ZJUW1iZFpUVDZfYVQzb3RDRHZlT1hZV1htRQ?oc=5",
-   "ts": "2026-11-21T17:39:22+05:30"
+   "t": "Adani Enterprises, BSE and 5 Other Stocks That Delivered Returns of Up to 44% in 2026 Amid Market Uncertainty",
+   "s": "Trade Brains",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRDA3cXZ0ekotZjMtblpPQ2dUTkE3aFlxMjM2TFNDRTM3X1pzQllZZlhFeVBlTVQ5ZUFlRUJ5b3JNYUprYU9RVE9kbkxsOXg2cURiNFVwV0FkTVhKcnVsMWhsSzk1ZUxqQlBuR3FwUExkTUtrSmZ6aHlCbk90LU4tcFptbUJmN1NiOGxERU1aRVVKMjB0c1J1dVVBNHU0UjJEbjN0U01Rc0VxNnNOcDFMUFhmZnlJM0VSZVhJTVUxMzZlVk5DekViYmlmV3Nrb3FGQ3FPdGVvYjZid2ZPZ2I2TmJJT3pJRW5xbEE?oc=5",
+   "ts": "2026-11-22T22:00:37+05:30"
   },
   {
    "c": "Markets",
-   "t": "Sensex rebounds 238 points, Nifty closes above 23,960 led by realty and PSU bank stocks",
-   "s": "MorungExpress",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUzgxVDFGOUw0eEZacUNoS2dTZWpPZW1mWU9GUS1TQ2plMUlyZ2VYR1d4a29KS1RpUmEzYTEwN2w3cDBIbjljMm9ZVkx1R3hNa25KMm9zTXp3M3JaYzA2ZmxSQlQ5RC0wcE1hNnNibnYwWG9yZzBrWWNhVjd3ZGhrd1dUaE9GckN6bUlCZ0dSQXdfVzJ4X1VaY2t2QVdXUnF2cjhTWDNfNWROLVV0ZWpha3QxVmpYQQ?oc=5",
-   "ts": "2026-11-21T13:21:07+05:30"
+   "t": "Sensex jumps 990 points to cross 83,000, Nifty reclaims 25,500 as auto stocks power rally",
+   "s": "DD News",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNajRpbGMtdjE1N2pOWVNCaHlZUE5ZSHRwNkt3eGhxTWRXNUFlZ29JNHRtNFBCMUFBaU5qaU1ZWkd1SUozem5TU3VXV0YzdUI0bTFXNVlUR2pPTXRxWU85Rmc5ZVBQREY1RDA1RmZUN2VzcUlYaFhlc3otNmZWSmRqSGVzZ2pXUUZ1WUdkamJ4SDdXQVJKcTNqczRmRzNQakx1UFZ4Y0VWM0lIeVNXMG1VSk53?oc=5",
+   "ts": "2026-11-22T21:00:26+05:30"
   },
   {
-   "c": "War",
-   "t": "Crude Oil Choppy as Strait of Hormuz Flows Fall and Traders Price In Renewed US-Iran Strikes",
-   "s": "Benzinga",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPY3dWaFpvd0VOWWoxbDQ4WDZURHMxQ21TOFhRV2NaV2oxRVozTk50QlFXTHV0dlczSXJaYWRhLWNobWF6QkFwTkowTWZVcXBJbEg1Z2JJVFJCMEJ1eHhibS1Dbmx3bXNISVpidG4yaXF0NDM4QWVCQVlqTWdsdklvSWlpV25WcllDVndaZno1ZDdXTVlZNmNFQ2h2V0EweUFIUTdyTHY4ak5MXzFDanhST011dTJKbHpKaUpVbmkteURrZDlGekhyYVRwNmNGTGZCMXlzZ3JxR3AyNm5yWkFucUV0NHQ4RUE?oc=5",
-   "ts": "2026-11-22T01:15:07+05:30"
-  },
-  {
-   "c": "War",
-   "t": "Iran signals readiness for Hormuz showdown despite US buildup",
-   "s": "Iran International",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yaUpKd014NmJMaFJZSVNnVFNkZ1ROVW9DeU5VQnhqTEVyYmtUR3ZodFNiekFyVlpZSzFlX3U5VVhOQURuTUxUS0g2bXRTSDVVSkE?oc=5",
-   "ts": "2026-11-22T01:09:47+05:30"
-  },
-  {
-   "c": "War",
-   "t": "Tankers struck in Hormuz, as Iran says held talks with mediator Qatar",
-   "s": "The New Indian Express",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZFYzSTlDRkNHWHdLWkZmSXFNVDlzVHpPeG5tQ3ByU3g2S1luZEJVZlphTHM1Y2drRDk2Q0lQZThGTjBPM2ZSTFl0MHF3MGZkNjBVMG5aZ0xtTzcyNHoySmc2UGZfWjZIbzhBdmE3REJUMTc2enRvc2d6azNnNHA4R1J4MHdMcmZhbmcwWllSeXJNMUVVRmV3S2c5OUVnU2J2MWpJcnBfbzhHSUFZVWVBSE5zOVB6VXFaSTRr0gHIAUFVX3lxTFBYaHo1NWV6aVBEdndKUnZaczVNZDdONWp2d1hIQU5ac2dpc2Y5UHVOd2U2NDQyUkc4MEtVM2hneW5NcnlUdXA1eXk4UEhtMzZvaGlmcWcyS1FTVG1mS0FxWXFhekd0dEkyV21ZZmk3RGNmVF9nRkthRFRfRVRWb1p4MHhjdTh1ejFEcjdCLWItbHVFTklwNXdHQVVCUTRTZEQ0T3JmNmxDMmlNNDZtRWFWdnFPeHdCYTV5cUJVNl9RWDQwZmcxSkZf?oc=5",
-   "ts": "2026-11-22T00:50:26+05:30"
-  },
-  {
-   "c": "War",
-   "t": "The Iran War Could Permanently Slash Reliance on Hormuz, IEA Says",
-   "s": "WSJ",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONkRNTmVJRC1mZzYtOE1lWkpzLUYybFdUbTdtRmItWjJCZFBlMXpNQkJ5cDdpX3Z0dlp3MFhaOTFCU1Rmczg1MWs1SUhOY3B1cVp5UDlQM0ZkQ3dWd2dsZldjdWo4cHQyQk5CWDZkWHlkRGp5RmJrNm5NSWRyZEJNLTlsVHhSbWd5akdWNVNzVlNUSGRFNVVtcHJDOVRSbWxScFJGWmFjdWx5ZkQyejhTNWxYYw?oc=5",
-   "ts": "2026-11-22T00:33:20+05:30"
-  },
-  {
-   "c": "War",
-   "t": "Strait of Hormuz Tankers: Two Ships Hit Near Oman as Iran Says Vessel Caught Fire After Mine Strike",
+   "c": "Markets",
+   "t": "Nifty Eyes 26,000: FIIs Pour Record Rs 1.12 Lakh Crore as Banking Rally Leads Markets",
    "s": "theopenpress.in",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XbXl1b3FKdUFHbHZFQS1vMzJkcmJ2VE5ZOVNaRlFzUDZndTJXRUJfM3FVYU5XZ3lRN0wwd0hnWjlwaDhSZk1MV1FEeVdTMkJUTmlvUml1cTZ5eHR4aGk3Z3AtNlp5alpIX2pSYzFQd1ltZzloYW1YZVVR?oc=5",
-   "ts": "2026-11-22T00:25:57+05:30"
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWVFpMUpyVDA0b3B6MkpKSXgyazhUbXpPTnRxNElhMmRyVVFzR09kSU92cldwQ3RnYTlISlVadkw2a05RUWM4dEZOdG14NVo4QXR2MjF0MC1Wdm5lY3hpNUh5S1RZOVE1WDQxM05tT0xPbTNobWFxVGRyRkIyUFNDREZ2R0dIZw?oc=5",
+   "ts": "2026-11-22T20:24:00+05:30"
+  },
+  {
+   "c": "Markets",
+   "t": "Week ahead: NIFTY monthly expiry, crude oil prices and FIIs activity among key market triggers to watch",
+   "s": "Dailyhunt",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOaU1VWmVvMkZ6alRFRk9obE9Va3ZVRDhmMUxFNWYwSFIweW92WnozVjZKVl9MYXZlZnNJWFYyd2lYR1gyLW8zbDZidm5ncHFPelM5Z2Q2Y0RhaGpaOEhFdnVoekgxVUptdDc3eWV0dF9ldWRPUVpqTTJDSURJMm41OXpRUkhsUThYNUNSY3pGQ0RIdW4zVFJMWXJtYjhkM3lXYm40ZVE2LTFIXzhfWWtYdUNGMzdkMGtoUmZ4MUs2YmRZUDFVY3h4UGQ0OTVUTm1lQk9Pc2dxdE1LR0tXTDlzWkJwUTMxSVpseUZfYlhCbUJzcmxkOTNNcWQ2U2liUnM3a0gtcEViRkdQWUV3VHkw?oc=5",
+   "ts": "2026-11-22T19:09:42+05:30"
   },
   {
    "c": "War",
-   "t": "The U.A.E. Is Shuttling Oil Past Iran in Risky Hormuz Operation",
-   "s": "WSJ",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbmRRX05leU91eDNOcGU0ZjVxQ0N2MVpwQ3lCZXFsNUVDcDlySkJ5RFZfLTR5QkwyUF91TzFkSDNpYTlPMzZTaFhfWmJ4TEpKTVAzTEJhNGVYRFltRmRMVDJfdUVpcFoyYnRRRGNEX3ZKRU96bjVxYjZEQ2V0WWFZOXhDb3dTT2FfTGpVTWtjX1JLeVpXUzN3OFlSdm5DdXJ1YzlHSnNJa3pjT0FDX3c?oc=5",
-   "ts": "2026-11-21T22:30:00+05:30"
+   "t": "Middle East latest: Tanker incident reported in Gulf as Iran claims two ships catch fire",
+   "s": "The National",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUHN2cW4tcHM0SnF6VTliWkZvYnptOHl1T19RT0p4TlZKNUd0VlNQd3hWR2lNbUh4UEN2cmZzZGNnTjRya1FJOV9WZmd3dkU1bmNJdFZwVEhIMmhhT0hkZkYtWVZ3QXU5R25JRTVNTVVpaFp6VHNQaW9rV3hsYVR1UjAwclM0NWhqZkE?oc=5",
+   "ts": "2026-11-23T01:34:20+05:30"
+  },
+  {
+   "c": "War",
+   "t": "War, latest news. Eisenkot condemns the arson attacks in the West Bank: ‘Jewish terrorism’. Ben Gvir attacks him",
+   "s": "Il Sole 24 ORE",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjZYRHVpbUdTVVlVTDNNX010cWJDY2FvT0FCTHQySVZibUstMWt0T1dOblQ0S25PNVBCRHFZUGVqcFBrWFdqN21pVmJkVUUyUUxRRTZVSWFQNHNpOHpIOHc2akszMkdFZDIySGZNaURRUUFHM0liM1o1OG9jN0lxeWtJczBFd3BuMS1QczRqQVltZzg4VzBGczlvTXJBZUZZMkl1ek81b2Z1WW5pZjJrUG8tZW1EUQ?oc=5",
+   "ts": "2026-11-23T00:54:03+05:30"
+  },
+  {
+   "c": "War",
+   "t": "Shipping attacks near Strait of Hormuz hit highest levels since Iran war began",
+   "s": "SSBCrack",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYkcwSTQ5akwxd0szV09PYkpWZmpHaFctdDJfWWpLblJFbktOU3NxUkk3R2xCUzZzaGZKcTZ0aDZndl9iRDhHUVF3WmdLcTk0YlpVRGRDc0gyWHkxVDRNYnFYRjc1LWMzZV9icElLV2xfSnRRN1RtQ1hsQTJwbnVOZmxRS25paUNYMTNxdW1UY1lObUtxTXZVVVppUVJrcGZqaG52VnFWbGs?oc=5",
+   "ts": "2026-11-22T23:52:15+05:30"
+  },
+  {
+   "c": "War",
+   "t": "Two oil tankers explode in east of Hormuz: Iran Army",
+   "s": "Mehr News Agency",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQWpwVWgxTFlPb2dMVjFHRGZOVXlmZW1oVGFHRXJyZHJVZHVNVDUtbkQwTDlaUWFxX1NaMHNGMDZlWkZlSk5mTF9hY3FDeS1Yc1ZiMFBNNXRRbXdNVjQyZ0JHcWVWM0s3OFhlQklTSVhZZ1JvS1lJdzk5OW90dmxNWFlzaC02Y05ZWWJaNjloTnA?oc=5",
+   "ts": "2026-11-22T23:39:00+05:30"
+  },
+  {
+   "c": "War",
+   "t": "Video | Strait Of Hormuz | Lewis Pugh Swims War-Torn Strait Of Hormuz",
+   "s": "NDTV",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPX0RTU3NQV0lkdXRlUUlYN0w4bG1mN2t0LXJPbDhfdjdfM2FIY0tVcjkzY2NwVGRvdG1SMmdTdGdRT2RfcmNUTmtaRjRrdjBEWVYtTmFBQThhMWswMW5TWmZFc1RJWDVEWEdpWWJDT09lUV90SUhPdXVYMkd3LXA4Rl9IZw?oc=5",
+   "ts": "2026-11-22T23:16:29+05:30"
+  },
+  {
+   "c": "War",
+   "t": "Lewis Pugh Completes 15km Strait of Hormuz Swim Highlighting Iran War’s Wildlife Impact: 14 outlets compared",
+   "s": "NewsCord",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQajJZdTJIeTdIZHNpdVdmRzdvV3VXZkVEczZKamhxS01uMWtTWmNadE1zU2JlejVrOFFaTUJId1B3WUE4OW5aMk4tUkxGQXJZaWxsdzJCSHZBUjE2ZUJITTdSMFlRbk85bGhSNTh4VjkwV0dHazhhSmFuYUNMeXhUbWZab0owVmxjR0kySmlCSDRkaVZvWThubzJCdUNCVGJ6TU4ySmd1QXh2WTlFdUR2RGZhWmIzakVxV2E3MDhmT2dFTlFCM1BCWURPYURHcjczNjJJTnh4U0M1dC15b1NOVQ?oc=5",
+   "ts": "2026-11-22T23:08:09+05:30"
+  },
+  {
+   "c": "Diplomacy",
+   "t": "India, Canada Advance Trade Pact Talks",
+   "s": "Wisevoter",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2d2lDUzQ0QkdHZE5Gd3FQR2F4RmduN09ENEd1cmVjS0xhWWh0M1dRWWdobFJmTE1lQlI5MkxabnJobmNROV9SYVh0WnBkRnVmYW9rOURFUlBxbzFWa3owMXZSYWktcWR4SnQtUEpveWhWQTFldzFQTmI5TnhCRWs?oc=5",
+   "ts": "2026-11-23T00:29:29+05:30"
+  },
+  {
+   "c": "Diplomacy",
+   "t": "Russia Imported Record Gasoline Volumes In October Amid Ukrainian Strikes On Refineries — FT",
+   "s": "uatv.ua",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNckhTc2tIODhUNVRJY3JValJkamZXNThhNHJYSGFiTk1CQl94VkRHcFBVa0h3QlZfa3hZTm5FVHBBV3lfVzNZdXZUVGczYm1HUnZNUXNZeDVJMHhRY1ltNk1DSTEtNG8wbld0dFNrY1Q2a2NDR1ZoVjNwNTBIQ2s0YzU2YWZKaC1Gby1qWkJKSThhWDBkOUZ4YjU3UkpRWnlZRDVVMDUwSmtXN0JRMmpr?oc=5",
+   "ts": "2026-11-22T23:29:00+05:30"
+  },
+  {
+   "c": "Diplomacy",
+   "t": "EAM Jaishankar, Bulgarian counterpart reaffirm commitment to strengthen cooperation",
+   "s": "The Hawk",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTTVoMHZrV3RlYTZpMmxYaFowMnVNM3FBUTZZNnNhWGpZU0ZiakRPbTdEWmhRcmRBVGpqaURrQ1hTa2JrSk1uV1pjMkJiMHZaS0ZSVml1MTFJZlgwZHVpakQtSjBNSkhTV0dwR1dxODRBbkQwMlRONUV5VDc4WVNzN2xDT1RZN1VlVmtaUlhvTEtvQVBwRHhTSlpsUnNJRmg2X21wMkhsNUhkd2tkWi1tLXQ0dUdRX2d0bmFJanpzZjJiVXNRN1p2ZEpyQmRlcGs?oc=5",
+   "ts": "2026-11-22T13:38:10+05:30"
+  },
+  {
+   "c": "Diplomacy",
+   "t": "US congressional report on China-Pakistan ties highlights what India already knows: Former diplomat Mahesh Sachdev",
+   "s": "https://www.indiagazette.com/",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQd2E5RkNFZW94TXg1OGxWeHVFdnR2aHRVWEc1SjE3QlhSUmxlNDJtOTVqeDBKYm1YTnlnTDRWWDJzallNcXplS2xKQVlvUEhRbjZXOHMtSXM3cU1JVllYdktPZGpfc3JFTTdYeUgwdHkyb1g3ZktGUEowdWZVTGVSZFNtWW91X1FQcGlOZEd1N2R2dExfQjRUY1dQS0hEc3pjSWZhbnlRNXhtMkJhck11WmIybWZHZGFneVVIbU02cnItWjFEVHhQWnc3ZjJmX2RTeE43VWJHYUpkbU4wTHhiblNJWEdKMEZnWlBsTVFn?oc=5",
+   "ts": "2026-11-22T11:10:00+05:30"
   },
   {
    "c": "Diplomacy",
@@ -106,32 +134,18 @@
    "ts": "2026-11-21T20:35:19+05:30"
   },
   {
-   "c": "Diplomacy",
-   "t": "Prime Minister Balen Shah to Visit India for State Visit",
-   "s": "Ratopati",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdTNZOGlUM211dlhnaXRPMHJRaWpnWDAzbWp3blZ1UHY3MDdra054SWFaWUxGV3Fvd19TLVI5YlFmak8yc0JSYVlRRjVVemZBTUp4WmI3aGJRZDJFTnNjZ1V0elRIMTc2Ui1RWndaZG1HRVczSnh2MkE4UTR6R0FLWElwclJiOHR6djNMaWtra3MzdjhDV0VWT3Y1Q3BEcUllV2lrRGRubmFVUXpWSGR0SDFFeWI?oc=5",
-   "ts": "2026-11-21T15:20:56+05:30"
+   "c": "Rupee & RBI",
+   "t": "Stock market outlook: FII flows, US inflation, crude oil among top factors to watch next week",
+   "s": "The Hans India",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUFpBdEZ3QzlHNlkzRVYyQU5IWTY3dG1PNW53aE5KbGl3WVhRMzhybDFCV0lwdEF1N21FS1VId2h5Yl9WZHNOYVlQSnItODZZLTlkR2ZfNFdjUnprbXNWbVFoeFZRc3Fad28waTVhQUtvN1dyYWdhd1FtTU9PUjdCR2dBQUMyNE94c0gtekk5c25QMzFtUjhtMU5sRDJMb1VLYkp3RzFqS3o4NlF5VjFLdzh3dkRCb2tZckJEMGx5d012Q2doZmdCd0d1UUN3Z2p5UTRaYkVqd9IB1wFBVV95cUxQUFpBdEZ3QzlHNlkzRVYyQU5IWTY3dG1PNW53aE5KbGl3WVhRMzhybDFCV0lwdEF1N21FS1VId2h5Yl9WZHNOYVlQSnItODZZLTlkR2ZfNFdjUnprbXNWbVFoeFZRc3Fad28waTVhQUtvN1dyYWdhd1FtTU9PUjdCR2dBQUMyNE94c0gtekk5c25QMzFtUjhtMU5sRDJMb1VLYkp3RzFqS3o4NlF5VjFLdzh3dkRCb2tZckJEMGx5d012Q2doZmdCd0d1UUN3Z2p5UTRaYkVqdw?oc=5",
+   "ts": "2026-11-22T11:58:49+05:30"
   },
   {
-   "c": "Diplomacy",
-   "t": "Free trade deals without industrial and business reforms widen deficits: Shashi Tharoor",
-   "s": "Business Today",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdnhkVHQ2UnhvMl96MVAxZzhZY19TdzdzOTdUUkt1clg5NFpISDlTRHltMDhGdVY1VEZDNjJhTzliNWppaEZ1d01NRFFwZTd0N2gtTm5WbWV0WC1KQlNKRkVURW1HMV9sUGxOX21qb19PMVBPNVpWcFo1YWwzVml3Mm14VHNhZ19UUWFNdHdOVGtWaC1kOURwM2VfMXFYVzJoblFZZm5SQWtYNXhjVzhkQ0Y4WEwtQ1NWNndtbGNWR2REdnJUYTFNZERJNXY3dVMtbF82MHNQbUFncUlaUWp6X3J3QdIB4wFBVV95cUxPdnhkVHQ2UnhvMl96MVAxZzhZY19TdzdzOTdUUkt1clg5NFpISDlTRHltMDhGdVY1VEZDNjJhTzliNWppaEZ1d01NRFFwZTd0N2gtTm5WbWV0WC1KQlNKRkVURW1HMV9sUGxOX21qb19PMVBPNVpWcFo1YWwzVml3Mm14VHNhZ19UUWFNdHdOVGtWaC1kOURwM2VfMXFYVzJoblFZZm5SQWtYNXhjVzhkQ0Y4WEwtQ1NWNndtbGNWR2REdnJUYTFNZERJNXY3dVMtbF82MHNQbUFncUlaUWp6X3J3QQ?oc=5",
-   "ts": "2026-11-21T14:09:54+05:30"
-  },
-  {
-   "c": "Diplomacy",
-   "t": "Top US South Asia diplomat begins India visit",
-   "s": "DD News",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKVzZub3UzaTFSNG9KTm9BM3gxSVczb3NYNEhjeERIQjlFU1FQOXpVV2RfN0J2bDlpMXMyNzh4YTlnVUhqN3JINjFEWHpKYURCTUJOckR6UFg2cjRNaE9OWi1Kck1GakJRTXlxRWxtOFlYWU16MUhpSExjcw?oc=5",
-   "ts": "2026-11-21T12:00:10+05:30"
-  },
-  {
-   "c": "Diplomacy",
-   "t": "India Faces Less Pressure to Finalize U.S. Trade Deal Following Midterm Elections, Emkay Global Says",
-   "s": "INDIA New England News",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaVoyZlgzRDlJMjJoLWo3N2U3blRZU1YwdXFORHh6cW8xT3NmLW50SkJ3QUdhbmRUYUtjcmRKcWFuem5QZk5Yb0hrTnVkMk54ejRwRmt2NTktRFRPZVVxR2J2dTBCUW9tRlNHdGppTVk1UzV4NWZ2NktCeVg3UEdNQ0lGYlo2Y2xacml2LVNVOWpGMVNLNTJfc09RNzMweTVHTS1CbmpzLVA1YTE5S1ZoM3p5REdLdmpNUzJSbnNGcVk2WUxTMmc?oc=5",
-   "ts": "2026-11-21T11:15:26+05:30"
+   "c": "Rupee & RBI",
+   "t": "Nifty scales nine-month high, 26K in sight: 5 triggers that could drive or derail D-Street rally this week",
+   "s": "The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPY2REdUZvVjhpeUhFMGlRR1ltSXliSW1ITFVTVVEtNGI5NVM3TU8wUU9fTnJ5dXRmdEVxcWFMRzRBRFZBX1I0QXRRRVdESlJSbXRGYTdjN1c5cWFxbFd5eF93cVFGdGg5QURFZFh0SFROUXEtc1QweHBqblV6UElPVHhXODNsQXpJdzNFcjFYckR2SFZkVk5VZEsxYl85VDN1VmtqR3Zia3NCSjNPczV0XzJ2ZDhoR3V1ejNlLUhRYUVuUnBUeC1GNGpRWGtRSWRWaGxpZ3lWb1QyVlZ1eHZRQUI3ak4tclZoaXRyUDA5eXpDdkhQc2NrQzdXQdIBgAJBVV95cUxNNURhSHVPallUbjFwaGtkTHo0dzJIVlBBOVdmem1KUC1uLVVFcUpydTYyRUg4SjloZHBpcXVvUXFubHVIRlVuNU9TTkUwVXpkRFdKYWt2aWpaSl9Rc3N1cUg0ZXpyZGFwbHJQUHR5NTJkRlpscldZTUFQREZjbkRQbWMtZmZhYkFXWGF1OFU1N1ZRYnRJa0lmdlJoRElLcEp2MHBFbU5qeDNzVC1MTmFPYU1ZendJNDduQmNmcFJuZmFRdG0wbWY0U2JVd1lLOWt6YnlkeFFodjc4Wi1GSGJlRUs3TXNtM3VYUE1LOWVSQnNyUHV6MGFOZTVRcVpmM3Vs?oc=5",
+   "ts": "2026-11-22T10:09:09+05:30"
   },
   {
    "c": "Rupee & RBI",
@@ -146,27 +160,6 @@
    "s": "Mid-Day",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdnExcExiWXh2djRubldXOVdrVS1pYS1tTUt3YzlIZUtxVnJmMVlVZGsxM3lnS0RfV3c3d1R0cDZLWEdJSktDSmNyNV9MUVRuZzBSOE5qbEdPeFFoRlNEejVYQWNyZHVkY1U5ZklScG1ub2VBRnFlNFF0cjl6VndmcUtoRVRsWU03OW1HSUV4WkRMc1lNazZNQTNDRjdVTExubF9STHNUM1VOc3czSzZTLUZ4eVlqcHNwWDFB?oc=5",
    "ts": "2026-11-20T09:25:51+05:30"
-  },
-  {
-   "c": "Rupee & RBI",
-   "t": "FII floodgates open in India, but JPMorgan flags a risk",
-   "s": "The Economic Times",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcFFrcGVONEJVbDJ5ZFgtZFVZanZvREZOR2YyZnFjMFk4dDUtQWxaNHFLaGxuT1oxT1ZLcDdveGFrUm1RZ2djUVoyS2xUd0JLUHB0amd2M3dvdmQ0SlpDekpYRUZpVEIwN1hrZEZpMFFMZFQ3LUF3QzB6aFZ5YURWampkSkRrcDhHZHp1UHRsLWJpOW11MGVwUHA0TjVPNVpUSV9FS08wUVc2MUZWelFFYmY0ZGxxaXY2M3d0c3dfc0JDaC1Sa0FhV1V5X1FTYUptaXI4cNIB2gFBVV95cUxPZWZhQWZaOHFrZGJhZm9pMG9EY0JIT01HQVF0WERKZEQ0bmt0UFpmaHVtSnNfR0pyN2VHeHBDX1FTZDl5LVpJWlZOS1FtTTVYUmdVcFlkV0dKTkM2MnRFYkZvYVRDLXo2dFMwWUNKSlNIZi1JV1ZRaXVlSDJRWk1uc2xidF82UlJaUUdzd19jVFlDUjZGd0JkMWtJRG84dzFMM1BnNFBrUGIxd244d09Qc0ZUZG92U19pSzdzSFYtRzk5R1VTclB1SlBEYlFnZG8zWU0zU1pOSGJTQQ?oc=5",
-   "ts": "2026-11-19T14:58:04+05:30"
-  },
-  {
-   "c": "Rupee & RBI",
-   "t": "Should India really wish for a stronger rupee as it turns a corner?",
-   "s": "The Economic Times",
-   "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNVzFYY1ZrSkZsVVpydjFEa0RmUVNrcU80d1dfYnNwYmhRb0hBSFJOWm5zTnJUeUZNWWdoZ0FZNDdtNjRhbEhCRVowX2pKWlRVZjY0eFFhbzVpME1kcTFvSWd6eHpTcFhodU52U3VCb2VfeF9OUUwxcy1pMHoycmVlcjRCQ1o3cnhtRVFOd1ZTeXM2ZzFGUkEzZzFBSS1lYm9KS3k2UWpxdHY2cTdPUkp1R0NMWE9tVUp4WmRoX3hYNFdVT05maTdCbm1iVEJ1dnk5OUdndmtLZnpmT2F4SFBUaVA4cDhqa0JXSHAwaEN2MEh0azBxbVpSZ3NqN1RZaXZnblNUS2dJb2Q1Z2lGMEx1WnkzaEZLWFg1SVBlVVBXNjR3UU1aVEZzTVJVMWk4ZmtHLTFpRkhuUEREdnFtQ0dQNHpUOUN3cXlXOHVIc1VfMHpGQV92THVhbFRB0gHfAkFVX3lxTFBfbXNYMEhYbkZ4SjBWSWx1Vi10RjMzM1BWSjlRYmF2R0laNHpSRDQ5c3R5ckxCUW15MFdrTTRmV210X3JRUC1WZWVBQ25paTBGTjBscmVhZ2FBT081YXczbnN1WXdLREI4Z3lPQlFfTms2YXpPdUZTRUJUSk8wOXRHWV9oekhHWVFKVEQxS2kyM0w3M2NOb19tTnFGaTV4SWJQUmg2RFRxOVFZNVdPV0lxUEJiRzVxOXkxY0hmR3VJOWNzR2FyUl9uNGtvV3J1UUZBRDBQSU95NTlZYWJPT1FfWjdRTE5tQmhGeW5RTFh3Q21rOGo4ZEE4OEF2c1NwMnBQWWJHSGZ5TDFVektKZmdzVklhQ0FYWG9QRUxad1A2RlVTa1QtUjFVTVBUc0JRMWtIcm90S3d1Mk9qMG5GcjNXRVQ1ajFVLUhGb290aVBlQndNMmVZemdaV29YY3Rhcw?oc=5",
-   "ts": "2026-11-19T14:27:02+05:30"
-  },
-  {
-   "c": "Rupee & RBI",
-   "t": "Rupee slides 8 paise to 93.49 against US dollar in early trade",
-   "s": "The Hans India",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa18wRVZpVjFVUTBOOTZPZWFwMUNZTHhnM0tlZmdHZWVJWTRFejRwbHdkNzBONGVzc2FmOGEzSkx1RDFDSXA5TmlxOFJfcUNTWnd6WlNmbjRKSk9KbWswNk8zV0lwckZQM2R6QnYyWDdTdXJfQmJtTmtaNzYxX0gtTDdfT3lKZWtlSnFoY0lkRFRWVG05S2tDTmFtY0Z0Zkp4WnpqM1ZJbkFQRkotSW1lbtIBsAFBVV95cUxQa18wRVZpVjFVUTBOOTZPZWFwMUNZTHhnM0tlZmdHZWVJWTRFejRwbHdkNzBONGVzc2FmOGEzSkx1RDFDSXA5TmlxOFJfcUNTWnd6WlNmbjRKSk9KbWswNk8zV0lwckZQM2R6QnYyWDdTdXJfQmJtTmtaNzYxX0gtTDdfT3lKZWtlSnFoY0lkRFRWVG05S2tDTmFtY0Z0Zkp4WnpqM1ZJbkFQRkotSW1lbg?oc=5",
-   "ts": "2026-11-19T10:21:51+05:30"
   }
  ]
 }
