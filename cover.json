@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T14:44+05:30",
+ "updated": "2026-11-24T06:31+05:30",
  "issue": [
   "Issue 16",
   "Market close · Mon 23 Nov 2026"
@@ -8,40 +8,40 @@
   "A rough day for",
   "Dalal Street."
  ],
- "deck": "Nifty closed at 25,414 (▼ 1.50%) and Sensex at 82,745 (▼ 1.40%). Over the last five sessions Nifty is up 0.5%. Brent crude is near $89 a barrel and the rupee at 93.02 to the dollar.",
+ "deck": "Nifty closed at 25,350 (▼ 1.75%) and Sensex at 82,436 (▼ 1.77%). Over the last five sessions Nifty is up 2.6%. Brent crude is near $87 a barrel and the rupee at 92.90 to the dollar.",
  "stats": [
   {
-   "v": "82,745",
-   "l": "Sensex ▼ 1.40%, Mon 23 Nov"
+   "v": "82,436",
+   "l": "Sensex ▼ 1.77%, Mon 23 Nov"
   },
   {
-   "v": "25,414",
-   "l": "Nifty 50 ▼ 1.50%"
+   "v": "25,350",
+   "l": "Nifty 50 ▼ 1.75%"
   },
   {
-   "v": "+0.5%",
+   "v": "+2.6%",
    "l": "Nifty over the last 5 sessions"
   }
  ],
  "story": [
-  "Of the 80 large stocks this page tracks, 17 rose and 63 fell. POLICYBZR led the gainers (+7.17%), while TATASTEEL fell the most (-8.59%). Bank Nifty ended ▼ 2.66%.",
-  "Across markets: Brent crude near $89 a barrel (-3.6% on the week), the rupee at 93.02 per dollar (stronger on the week), gold near $3,611 an ounce.",
-  "In the headlines: “Sensex Sheds 1,253 Points, Nifty 50 Falls 1.49 Per Cent as Metal and Banking Stocks Drag” (Dalal Street Investment Journal). “Pugh’s Three-Day Hormuz Swim Puts The Iran War’s Wildlife Toll In Focus” (2oceansvibe News).",
+  "Of the 80 large stocks this page tracks, 15 rose and 65 fell. POLICYBZR led the gainers (+6.48%), while TATASTEEL fell the most (-8.43%). Bank Nifty ended ▼ 3.17%.",
+  "Across markets: Brent crude near $87 a barrel (-6.0% on the week), the rupee at 92.90 per dollar (stronger on the week), gold near $3,658 an ounce.",
+  "In the headlines: “Sensex Today Ends 417 Points Lower | Nifty Below 23,900 | ITC & Trent Losers” (Equitymaster). “US-Iran War Live Updates: IRGC Navy says three tankers hit mines, catch fire in Strait of Hormuz” (The Indian Express).",
   "One session says little about the long run. Oil, the Iran war and foreign flows remain the big swing factors."
  ],
  "drivers": [
   {
-   "h": "Oil ▼4%",
-   "p": "Brent is down 3.6% in a week. India imports most of its crude, so cheaper oil eases inflation, supports the rupee and helps oil users."
+   "h": "Oil ▼6%",
+   "p": "Brent is down 6.0% in a week. India imports most of its crude, so cheaper oil eases inflation, supports the rupee and helps oil users."
   },
   {
-   "h": "Rupee 93.02",
-   "p": "The rupee is at 93.02 per dollar, stronger than a week ago. A firmer rupee eases import costs and tends to steady foreign investors."
+   "h": "Rupee 92.90",
+   "p": "The rupee is at 92.90 per dollar, stronger than a week ago. A firmer rupee eases import costs and tends to steady foreign investors."
   },
   {
    "h": "World",
-   "p": "Pugh’s Three-Day Hormuz Swim Puts The Iran War’s Wildlife Toll In Focus (2oceansvibe News)",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbHJ4cHdDQlJhMzl6UlU3endUR1M0QUNPQ2JCeGRaZ0txdHZtbGhzREpublpBbzNLU3p6eU9Nc1Myc0MzUTV0eXlhelQtV3h6UF9JOG9BYjdsWS1xdjhpci1jOVNITDR2RkFsVFZvZVJiYVYwcFhQWnNEdTloTkZpZmNBUUJsS3pobUlEdEpqUlBHTG1QempmSA?oc=5"
+   "p": "US-Iran War Live Updates: IRGC Navy says three tankers hit mines, catch fire in Strait of Hormuz (The Indian Express)",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNN3ZxbkdTVmVwTnVlcHhLSUxNcXZPcjY0WHhFdGkzdXpyMFNIQXpSQUtnQmU5azZUMVdpc1ZHSVhNYmtjcTR1bmZIQmFZRm1PNjY0R2xaMDFqUXJiY0tfWi1mZGtmMEZESWd4eEdBQmVFaWs1VDItTUVMRjNDQkhUaWdVZFd4eEVJcVZjQ2o1dG13UVptVU8yTW9BcC0zZUljeTNvNFg2VDhYTXFKTGhScUtLd2RWNktCWEk2TFZlMEhIT1FhMTJXRklaYzJHX0tTeXFWb1lYVTF4SV9tMVHSAeQBQVVfeXFMTTBlT01NODNwTTNsQ3NiaE95ejhsT0Qza2t6dUYzc2x4Nl92NHdkV3lJblhDUGVObkpjWDlyempzZWtOWktLa0NoYzVtcXhsUEpMeTNyRWdQQW5GcXk3XzZNd1NHMkMzbGp6WnhERXlmZm9ZWmJYZmxKNlIzM2tmekZ6MEFOZnhBbjZfeUNPbHhxb1NPUGlxVkdHMUZGTUlxc1kyTDlpZGM3SDhKdUpFX2FQaDVTeGEtYklIMXVlRmJVd2RQMUczdHZtRkgtZ2s4VjRZdlo2YmZ6WGlEWHluMlVYVmxW?oc=5"
   }
  ]
 }
