@@ -1,47 +1,47 @@
 {
- "updated": "2026-11-25T04:36+05:30",
+ "updated": "2026-11-25T15:25+05:30",
  "issue": [
-  "Issue 16",
-  "Market close · Mon 23 Nov 2026"
+  "Issue 18",
+  "Market close · Wed 25 Nov 2026"
  ],
  "h1": [
-  "A rough day for",
-  "Dalal Street."
+  "Bulls take",
+  "charge."
  ],
- "deck": "Nifty closed at 25,350 (▼ 1.75%) and Sensex at 82,436 (▼ 1.77%). Over the last five sessions Nifty is up 0.2%. Brent crude is near $88 a barrel and the rupee at 92.90 to the dollar.",
+ "deck": "Nifty closed at 25,791 (▲ 1.74%) and Sensex at 83,982 (▲ 1.88%). Over the last five sessions Nifty is up 1.6%. Brent crude is near $88 a barrel and the rupee at 92.22 to the dollar.",
  "stats": [
   {
-   "v": "82,436",
-   "l": "Sensex ▼ 1.77%, Mon 23 Nov"
+   "v": "83,982",
+   "l": "Sensex ▲ 1.88%, Wed 25 Nov"
   },
   {
-   "v": "25,350",
-   "l": "Nifty 50 ▼ 1.75%"
+   "v": "25,791",
+   "l": "Nifty 50 ▲ 1.74%"
   },
   {
-   "v": "+0.2%",
+   "v": "+1.6%",
    "l": "Nifty over the last 5 sessions"
   }
  ],
  "story": [
-  "Of the 80 large stocks this page tracks, 14 rose and 66 fell. POLICYBZR led the gainers (+6.48%), while TATASTEEL fell the most (-8.43%). Bank Nifty ended ▼ 3.17%.",
-  "Across markets: Brent crude near $88 a barrel (-5.0% on the week), the rupee at 92.90 per dollar (stronger on the week), gold near $3,555 an ounce.",
-  "In the headlines: “Indian Stock Market Today, November 25, 2026: Sensex and Nifty Face Crucial Test After 1,484-Point Crash” (theopenpress.in). “Shafaq News..Trump says Hormuz oil shipments exceed prewar levels” (شفق نيوز).",
+  "Of the 80 large stocks this page tracks, 60 rose and 18 fell. DABUR led the gainers (+6.97%), while TATASTEEL fell the most (-2.45%). Bank Nifty ended ▲ 1.70%.",
+  "Across markets: Brent crude near $88 a barrel (-3.8% on the week), the rupee at 92.22 per dollar (stronger on the week), gold near $3,554 an ounce.",
+  "In the headlines: “Sensex Gains 1,323 Points, Nifty 50 Rises 1.52% as Banking and IT Stocks Support Markets” (Dalal Street Investment Journal). “Iran Reports Fresh Tanker Explosions as Hormuz Attacks Intensify” (Crude Oil Prices Today | OilPrice.com).",
   "One session says little about the long run. Oil, the Iran war and foreign flows remain the big swing factors."
  ],
  "drivers": [
   {
-   "h": "Oil ▼5%",
-   "p": "Brent is down 5.0% in a week. India imports most of its crude, so cheaper oil eases inflation, supports the rupee and helps oil users."
+   "h": "Oil ▼4%",
+   "p": "Brent is down 3.8% in a week. India imports most of its crude, so cheaper oil eases inflation, supports the rupee and helps oil users."
   },
   {
-   "h": "Rupee 92.90",
-   "p": "The rupee is at 92.90 per dollar, stronger than a week ago. A firmer rupee eases import costs and tends to steady foreign investors."
+   "h": "Rupee 92.22",
+   "p": "The rupee is at 92.22 per dollar, stronger than a week ago. A firmer rupee eases import costs and tends to steady foreign investors."
   },
   {
    "h": "World",
-   "p": "Shafaq News..Trump says Hormuz oil shipments exceed prewar levels (شفق نيوز)",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ2ViOFFZeHFCMGd5bzh4S2llSVZWd2o4ZHhZM3hkcVYzYVF4UlFvd19RY3kwVEU0RmdYR0VGUFp1eFVzVnpUTHBsNzFMXy1hdDV5ejFkTWF3OVBQaFJlR1pJYlhwaDRjeVc2V1N1U1l5Nlp6cTlGbTZ2eUsxZDNjdzdNOVAxYUU?oc=5"
+   "p": "Iran Reports Fresh Tanker Explosions as Hormuz Attacks Intensify (Crude Oil Prices Today | OilPrice.com)",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObXVCeG5tc1dtTi1CRVJxVEZ1dktYdHJ5cEN1LVhPUVoxTHJIWUhwYk5PbnQ4XzRhRHF3R0I5Wll4VlpmQlgwZGo0dDRXVkhJLWcxcFdrdmlEVjJaWDlRX1lYcU10VXZELUdiLTc2WnpyLW5kMzcyYjJlX1J3R2VvVTAzWnFxcVlMMl9DN0hKN3hoTG9NbjJhTE9EQVFzRU52NTlwaXNRSXpobkhwY3ZzN0lCeWJZV2o1WDBNNtIBwgFBVV95cUxNbnBHRGdlSTRjQnZhbk9RUEc4eXFpRTNYN1YwN2hleWwyVW02bVhJbjkyTWZPUUdsR2NEVFlZMmtjRzJEdlNnOGYzVEZvV1NPVi1hY3d2UGZoWENvTnNOcnRkZmFiMktaQ2ZNWDM2ZFk2LXotdWxsVEstVkQxNkZRRWgyNnlUR19aVm9JOE9jWmhzY1QtaEM1cXMzMk1PV3VmbkZkd1Y0ZkJvVUhhVlpwRk9XVVNpblJfY3RNck1hVTZEZw?oc=5"
   }
  ]
 }
