@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T15:10+05:30",
+ "updated": "2026-11-27T03:56+05:30",
  "issue": [
   "Issue 19",
   "Market close · Thu 26 Nov 2026"
@@ -8,40 +8,40 @@
   "A quiet",
   "session."
  ],
- "deck": "Nifty closed at 25,893 (▲ 0.29%) and Sensex at 84,297 (▲ 0.43%). Over the last five sessions Nifty is up 2.6%. Brent crude is near $90 a barrel and the rupee at 92.47 to the dollar.",
+ "deck": "Nifty closed at 25,884 (▲ 0.25%) and Sensex at 84,329 (▲ 0.46%). Over the last five sessions Nifty is up 1.7%. Brent crude is near $92 a barrel and the rupee at 92.44 to the dollar.",
  "stats": [
   {
-   "v": "84,297",
-   "l": "Sensex ▲ 0.43%, Thu 26 Nov"
+   "v": "84,329",
+   "l": "Sensex ▲ 0.46%, Thu 26 Nov"
   },
   {
-   "v": "25,893",
-   "l": "Nifty 50 ▲ 0.29%"
+   "v": "25,884",
+   "l": "Nifty 50 ▲ 0.25%"
   },
   {
-   "v": "+2.6%",
+   "v": "+1.7%",
    "l": "Nifty over the last 5 sessions"
   }
  ],
  "story": [
-  "Of the 80 large stocks this page tracks, 36 rose and 44 fell. HCLTECH led the gainers (+6.20%), while DABUR fell the most (-2.90%). Bank Nifty ended ▼ 0.21%.",
-  "Across markets: Brent crude near $90 a barrel (-2.3% on the week), the rupee at 92.47 per dollar (stronger on the week), gold near $3,599 an ounce.",
-  "In the headlines: “Sensex Today, November 26: Sensex Gains 200 Points, Nifty Holds Above 25,850; IT and Metal Stocks Lead Market” (theopenpress.in). “Middle East latest: Explosion reported near tanker off UAE coast, UKMTO says” (The National).",
+  "Of the 80 large stocks this page tracks, 36 rose and 44 fell. HCLTECH led the gainers (+6.42%), while ASIANPAINT fell the most (-2.98%). Bank Nifty ended ▼ 0.26%.",
+  "Across markets: Brent crude near $92 a barrel (-0.3% on the week), the rupee at 92.44 per dollar (stronger on the week), gold near $3,593 an ounce.",
+  "In the headlines: “IT stocks carry mkts through a choppy session” (The Hans India). “Middle East latest: Two Italians killed in Iranian drone attack in Kuwait” (The National).",
   "One session says little about the long run. Oil, the Iran war and foreign flows remain the big swing factors."
  ],
  "drivers": [
   {
-   "h": "Oil ▼2%",
-   "p": "Brent is down 2.3% in a week. India imports most of its crude, so cheaper oil eases inflation, supports the rupee and helps oil users."
+   "h": "Oil ▼0%",
+   "p": "Brent moved -0.3% over the week, fairly steady. Oil remains a key swing factor for inflation and the rupee."
   },
   {
-   "h": "Rupee 92.47",
-   "p": "The rupee is at 92.47 per dollar, stronger than a week ago. A firmer rupee eases import costs and tends to steady foreign investors."
+   "h": "Rupee 92.44",
+   "p": "The rupee is at 92.44 per dollar, stronger than a week ago. A firmer rupee eases import costs and tends to steady foreign investors."
   },
   {
    "h": "World",
-   "p": "Middle East latest: Explosion reported near tanker off UAE coast, UKMTO says (The National)",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcnZ5TGlIcndkLWs0YmFxMzl1Z1dkVlE2ODFrUnAzejJXNC1tY1AzR3hVTVJ6OW9hSnZIanJpTFZDUDhySXBVZHFicTMweEktY3E1SXBtQ0lvNlctbmlQak9XcjZRYTZGQVd6YTBNeXlpMUotVHB6TXc4NHBIVTJGVmRaUFA1b2trOWRINVV5UVNURi1ZLTJZRjdR?oc=5"
+   "p": "Middle East latest: Two Italians killed in Iranian drone attack in Kuwait (The National)",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZjlZcjNRWExvSC0zaURTVmE2YjJuTHI5Z3ZQb3dxMGtCS09EMEVwNVc3T1hzTnZ5Z3czZGhqWDRNU2tNb1RTTFZOempjZHFKNE95SG54NjBGSlBHb2VqVlRqTTlwd3h0UUcyd3lGMDZuejRyamV5cmg5cVBlNlVZeVdNTDlyXzRhRjR1Qm1pbWI?oc=5"
   }
  ]
 }
