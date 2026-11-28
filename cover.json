@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T03:37+05:30",
+ "updated": "2026-11-28T14:28+05:30",
  "issue": [
   "Issue 20",
   "Market close · Fri 27 Nov 2026"
@@ -8,7 +8,7 @@
   "Sellers in",
   "control."
  ],
- "deck": "Nifty closed at 25,607 (▼ 1.07%) and Sensex at 83,339 (▼ 1.17%). Over the last five sessions Nifty is up 2.6%. Brent crude is near $91 a barrel and the rupee at 92.98 to the dollar.",
+ "deck": "Nifty closed at 25,607 (▼ 1.07%) and Sensex at 83,339 (▼ 1.17%). Over the last five sessions Nifty is up 0.4%. Brent crude is near $91 a barrel and the rupee at 92.99 to the dollar.",
  "stats": [
   {
    "v": "83,339",
@@ -19,29 +19,29 @@
    "l": "Nifty 50 ▼ 1.07%"
   },
   {
-   "v": "+2.6%",
+   "v": "+0.4%",
    "l": "Nifty over the last 5 sessions"
   }
  ],
  "story": [
-  "Of the 80 large stocks this page tracks, 22 rose and 58 fell. HAL led the gainers (+3.35%), while SHRIRAMFIN fell the most (-3.99%). Bank Nifty ended ▼ 0.78%.",
-  "Across markets: Brent crude near $91 a barrel (-1.2% on the week), the rupee at 92.98 per dollar (stronger on the week), gold near $3,668 an ounce.",
-  "In the headlines: “IT, bank heavyweights drag markets down 1% amid rising crude oil prices” (Business Standard). “Iraq reclaims No. 2 spot in India's oil imports as Gulf supplies recover despite Iran attacks” (The Economic Times).",
+  "Of the 80 large stocks this page tracks, 23 rose and 57 fell. TECHM led the gainers (+100.00%), while SHRIRAMFIN fell the most (-3.99%). Bank Nifty ended ▼ 0.78%.",
+  "Across markets: Brent crude near $91 a barrel (+3.8% on the week), the rupee at 92.99 per dollar (weaker on the week), gold near $3,668 an ounce.",
+  "In the headlines: “Sensex, Nifty snap four-week winning streak amid rupee weakness, rising crude oil prices” (Moneycontrol.com). “Sensex Crashes 989 Points, Nifty Falls Below 25,650: Why In…” (theopenpress.in).",
   "One session says little about the long run. Oil, the Iran war and foreign flows remain the big swing factors."
  ],
  "drivers": [
   {
-   "h": "Oil ▼1%",
-   "p": "Brent moved -1.2% over the week, fairly steady. Oil remains a key swing factor for inflation and the rupee."
+   "h": "Oil ▲4%",
+   "p": "Brent is up 3.8% in a week. India imports most of its crude, so costlier oil can push up inflation, weigh on the rupee and squeeze margins for oil users."
   },
   {
-   "h": "Rupee 92.98",
-   "p": "The rupee is at 92.98 per dollar, stronger than a week ago. A firmer rupee eases import costs and tends to steady foreign investors."
+   "h": "Rupee 92.99",
+   "p": "The rupee is at 92.99 per dollar, weaker than a week ago. A weak rupee helps exporters like IT but raises import costs."
   },
   {
    "h": "World",
-   "p": "Iraq reclaims No. 2 spot in India's oil imports as Gulf supplies recover despite Iran attacks (The Economic Times)",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZmw3MzBGRU5aYlIzWDdrN0VNTWNVMnJoZDk5eGxCSkZLaERfWUpBZjRCbjU4R0pSTXF1cHpURWUwYUNrMndRNHc2aWlvU0V0YlROR3I5OVpEWHlmTDI5eWo4bXJIcU1JWG84bFdZYkJpWDk3WTRmamJIcXdtSUdjV19pcEpWenlQdWJKMUZHM2w4UDd3WG1PTGg0VVU4S0hjdnRKdUItTkhFb0NEQ0lIVEpTMDN1VE9sMDZ4bUNpcXEzcHBtSzNJMFJJUG9yNnVMQmV5ZmVCYTdYQUM5Z1VwQzAyRWl6RnV2XzRKTmo5QjhXcF9KQ1B5RXhPODVQUdIBgwJBVV95cUxNMHBHd21UcHdBZ2ZwRWNWLVJqMlR5alZCVlJadFUxQTMxdTJLWXFaS3Q0NzMyX19KM2xwd3oxUzZNenJHRm82M21qblRNcGdNY2RwaWMwZGl6UTYyekNpNmtVR2ZSOWZTaXRtMG5malVJY1BsZnJKc2x6dmNISlc0WlQwaEZCWVJRT2thUEJlejhXc2pBeGRyNTlCVTQ2MnFIb0FlUmUxakN5cEs1dXpEQ3NMMjNGUjdBR2I2MDlmUHV5QzZFQjR4V3lQUjBpSGh2eDFjYTZUTFZCakhoTUdSaFdYdmtTYkVnNm00WEdHVjVRZzBwZkpJdzJJR3lRb0hSMDk4?oc=5"
+   "p": "Sensex Crashes 989 Points, Nifty Falls Below 25,650: Why In… (theopenpress.in)",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYTEwMlkySk5PaVh6NjFKczZTZUtpWXJCc19vN1ZRRl9ERy1BdFJWdHR1R0dXUGx4UGM3Y3ZfY0FiQkloTXVWQlFvZG1FUlFqN0dkWk03T3UwSnlXMU4wRHd6NDUwUkFHdXBnek5HdWRPYktwT3B6R0N1UjJReU9WNG8zWHV5cDBXODVmNWV1ZUZVWGRSZl9Ucg?oc=5"
   }
  ]
 }
